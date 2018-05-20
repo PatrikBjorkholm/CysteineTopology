@@ -1,0 +1,372 @@
+ID	Position	Peptide	Score	Cutoff	
+sp|P98194|AT2C1_HUMAN Calcium-transporting ATPase type 2C member 1 OS=Homo sapiens GN=ATP2C1 PE=1 SV=3	343	PIVETLGCCNVICSD	10.815	2.412	
+sp|P98194|AT2C1_HUMAN Calcium-transporting ATPase type 2C member 1 OS=Homo sapiens GN=ATP2C1 PE=1 SV=3	344	IVETLGCCNVICSDK	6.512	3.717	
+sp|P98194|AT2C1_HUMAN Calcium-transporting ATPase type 2C member 1 OS=Homo sapiens GN=ATP2C1 PE=1 SV=3	889	LGLTSSVCIVAEIIK	4.407	3.717	
+sp|P35670|ATP7B_HUMAN Copper-transporting ATPase 2 OS=Homo sapiens GN=ATP7B PE=1 SV=4	157	EGMTCQSCVSSIEGK	12.387	10.722	
+sp|P16442|BGAT_HUMAN Histo-blood group ABO system transferase OS=Homo sapiens GN=ABO PE=1 SV=2	14	TLAGKPKCHALRPMI	21.767	3.717	
+sp|P15812|CD1E_HUMAN T-cell surface glycoprotein CD1e, membrane-associated OS=Homo sapiens GN=CD1E PE=1 SV=2	12	FLLFEGLCCPGENTA	12.437	2.412	
+sp|P15812|CD1E_HUMAN T-cell surface glycoprotein CD1e, membrane-associated OS=Homo sapiens GN=CD1E PE=1 SV=2	13	LLFEGLCCPGENTAA	31.812	3.717	
+sp|Q9GZX3|CHST6_HUMAN Carbohydrate sulfotransferase 6 OS=Homo sapiens GN=CHST6 PE=1 SV=1	130	WAVSRALCSPPACSA	3.834	3.717	
+sp|Q8NBJ4|GOLM1_HUMAN Golgi membrane protein 1 OS=Homo sapiens GN=GOLM1 PE=1 SV=1	24	VLAALVACIIVLGFN	5.919	3.717	
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2	4	****MAACGRVRRMF	14.12	10.722	
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2	404	RLSYLLMCLESAVHR	4.882	3.717	
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2	767	KEDVLKLCPNIKKKV	3.837	3.717	
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2	892	KQMIKRFCPEADSKT	4.135	3.717	
+sp|O95461|LARG1_HUMAN LARGE xylosyl- and glucuronyltransferase 1 OS=Homo sapiens GN=LARGE1 PE=1 SV=1	5	***MLGICRGRRKFL	40.89	3.717	
+sp|Q9BT67|NFIP1_HUMAN NEDD4 family-interacting protein 1 OS=Homo sapiens GN=NDFIP1 PE=1 SV=1	15	LAAVEPACGSRYQQL	22.892	3.717	
+sp|Q8WZA1|PMGT1_HUMAN Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1 OS=Homo sapiens GN=POMGNT1 PE=1 SV=2	281	GYGSVCSCKDPTPIE	3.775	3.717	
+sp|O00391|QSOX1_HUMAN Sulfhydryl oxidase 1 OS=Homo sapiens GN=QSOX1 PE=1 SV=3	4	****MRRCNSGSGPP	19.891	10.722	
+sp|O00559|RCAS1_HUMAN Receptor-binding cancer antigen expressed on SiSo cells OS=Homo sapiens GN=EBAG9 PE=1 SV=1	12	QFRLFKFCTCLATVF	31.855	3.717	
+sp|O00559|RCAS1_HUMAN Receptor-binding cancer antigen expressed on SiSo cells OS=Homo sapiens GN=EBAG9 PE=1 SV=1	14	RLFKFCTCLATVFSF	12.516	10.722	
+sp|O00559|RCAS1_HUMAN Receptor-binding cancer antigen expressed on SiSo cells OS=Homo sapiens GN=EBAG9 PE=1 SV=1	27	SFLKRLICRSGRGRK	4.13	3.717	
+sp|Q8TB61|S35B2_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 1 OS=Homo sapiens GN=SLC35B2 PE=1 SV=1	174	AGLSCVLCKQPRHGA	8.823	3.717	
+sp|Q8TB61|S35B2_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 1 OS=Homo sapiens GN=SLC35B2 PE=1 SV=1	350	LLSICSACGQLFIFY	3.796	3.717	
+sp|P15907|SIAT1_HUMAN Beta-galactoside alpha-2,6-sialyltransferase 1 OS=Homo sapiens GN=ST6GAL1 PE=1 SV=1	12	NLKKKFSCCVLVFLL	10.744	2.412	
+sp|Q92673|SORL_HUMAN Sortilin-related receptor OS=Homo sapiens GN=SORL1 PE=1 SV=2	467	GYGEKINCELSQGCS	11.416	10.722	
+sp|Q92673|SORL_HUMAN Sortilin-related receptor OS=Homo sapiens GN=SORL1 PE=1 SV=2	1026	NACVPRPCSLLCLPK	6.074	2.412	
+sp|Q92673|SORL_HUMAN Sortilin-related receptor OS=Homo sapiens GN=SORL1 PE=1 SV=2	1040	KANNSRSCRCPEDVS	12.201	10.722	
+sp|Q92673|SORL_HUMAN Sortilin-related receptor OS=Homo sapiens GN=SORL1 PE=1 SV=2	1060	SGDLMCDCPQGYQLK	4.214	3.717	
+sp|Q92673|SORL_HUMAN Sortilin-related receptor OS=Homo sapiens GN=SORL1 PE=1 SV=2	1431	YRCSSGTCVMDTWVC	10.84	10.722	
+sp|Q8TCT7|SPP2B_HUMAN Signal peptide peptidase-like 2B OS=Homo sapiens GN=SPPL2B PE=1 SV=2	233	TCVFVVMCCSMLVLL	5.59	2.412	
+sp|Q8TCT7|SPP2B_HUMAN Signal peptide peptidase-like 2B OS=Homo sapiens GN=SPPL2B PE=1 SV=2	234	CVFVVMCCSMLVLLY	4.71	3.717	
+sp|Q8TCT7|SPP2B_HUMAN Signal peptide peptidase-like 2B OS=Homo sapiens GN=SPPL2B PE=1 SV=2	266	SATGLYSCLAPCVRR	4.65	2.412	
+sp|Q9UNA3|A4GCT_HUMAN Alpha-1,4-N-acetylglucosaminyltransferase OS=Homo sapiens GN=A4GNT PE=1 SV=1	17	SVTLLLVCGFLYQFT	27.562	3.717	
+sp|Q9UNA3|A4GCT_HUMAN Alpha-1,4-N-acetylglucosaminyltransferase OS=Homo sapiens GN=A4GNT PE=1 SV=1	32	LKSSCLFCLPSFKSH	4.504	3.717	
+sp|Q8WWZ7|ABCA5_HUMAN ATP-binding cassette sub-family A member 5 OS=Homo sapiens GN=ABCA5 PE=2 SV=2	1182	PIYPLLGCLISFIKI	11.241	10.722	
+sp|Q8WWZ7|ABCA5_HUMAN ATP-binding cassette sub-family A member 5 OS=Homo sapiens GN=ABCA5 PE=2 SV=2	1283	KELMGCQCCEEKPSI	16.571	2.412	
+sp|Q8WWZ7|ABCA5_HUMAN ATP-binding cassette sub-family A member 5 OS=Homo sapiens GN=ABCA5 PE=2 SV=2	1284	ELMGCQCCEEKPSIM	6.828	3.717	
+sp|Q8WWZ7|ABCA5_HUMAN ATP-binding cassette sub-family A member 5 OS=Homo sapiens GN=ABCA5 PE=2 SV=2	1513	MVSGQLRCIGTVQHL	10.777	10.722	
+sp|Q5QJU3|ACER2_HUMAN Alkaline ceramidase 2 OS=Homo sapiens GN=ACER2 PE=1 SV=2	103	AVLWVLMCALAMWFP	4.81	3.717	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	30	GCCEWLRCCGGGEAR	8.375	2.412	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	31	CCEWLRCCGGGEARP	4.915	3.717	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	90	LYFLLLACSQFVPEM	5.293	3.717	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	757	CQCPAVVCCRCAPTQ	9.383	2.412	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	758	QCPAVVCCRCAPTQK	8.667	3.717	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	760	PAVVCCRCAPTQKAQ	4.326	3.717	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	96	CDGWKFLCTSCCGWL	3.088	2.412	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	99	WKFLCTSCCGWLINI	4.771	2.412	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	100	KFLCTSCCGWLINIC	4.509	3.717	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	846	CQCPAVVCCRCSPTQ	8.591	2.412	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	847	QCPAVVCCRCSPTQK	8.749	3.717	
+sp|Q9NY97|B3GN2_HUMAN N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 2 OS=Homo sapiens GN=B3GNT2 PE=1 SV=2	125	DFLLYLRCRNYSLLI	4.128	3.717	
+sp|O75752|B3GL1_HUMAN UDP-GalNAc:beta-1,3-N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=B3GALNT1 PE=1 SV=1	300	YRIHLDVCQLRRVIA	3.844	3.717	
+sp|Q9C0J1|B3GN4_HUMAN N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 4 OS=Homo sapiens GN=B3GNT4 PE=1 SV=1	45	LAVLLLGCLLFLRKA	4.222	3.717	
+sp|Q9C0J1|B3GN4_HUMAN N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 4 OS=Homo sapiens GN=B3GNT4 PE=1 SV=1	311	DDVFVGMCLRRLGLS	5.901	3.717	
+sp|Q9Y2A9|B3GN3_HUMAN N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 3 OS=Homo sapiens GN=B3GNT3 PE=1 SV=2	34	LLVSPPTCKVQEQPP	6.945	3.717	
+sp|Q9Y2A9|B3GN3_HUMAN N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 3 OS=Homo sapiens GN=B3GNT3 PE=1 SV=2	303	DDVFLGMCLELEGLK	4.971	3.717	
+sp|Q9BYG0|B3GN5_HUMAN Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase OS=Homo sapiens GN=B3GNT5 PE=1 SV=1	23	IIQLFATCFLASLMF	10.753	3.717	
+sp|Q7Z7M8|B3GN8_HUMAN UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8 OS=Homo sapiens GN=B3GNT8 PE=1 SV=1	3	*****MRCPKCLLCL	25.195	10.722	
+sp|Q7Z7M8|B3GN8_HUMAN UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8 OS=Homo sapiens GN=B3GNT8 PE=1 SV=1	6	**MRCPKCLLCLSAL	24.312	10.722	
+sp|Q7Z7M8|B3GN8_HUMAN UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8 OS=Homo sapiens GN=B3GNT8 PE=1 SV=1	9	RCPKCLLCLSALLTL	14.762	10.722	
+sp|Q7Z7M8|B3GN8_HUMAN UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8 OS=Homo sapiens GN=B3GNT8 PE=1 SV=1	340	EDVYTGLCIRALGLV	13.179	10.722	
+sp|Q9Y5Z6|B3GT1_HUMAN Beta-1,3-galactosyltransferase 1 OS=Homo sapiens GN=B3GALT1 PE=1 SV=1	7	*MASKVSCLYVLTVV	17.118	10.722	
+sp|Q9Y5Z6|B3GT1_HUMAN Beta-1,3-galactosyltransferase 1 OS=Homo sapiens GN=B3GALT1 PE=1 SV=1	15	LYVLTVVCWASALWY	28.365	3.717	
+sp|O43825|B3GT2_HUMAN Beta-1,3-galactosyltransferase 2 OS=Homo sapiens GN=B3GALT2 PE=1 SV=1	9	LQWRRRHCCFAKMTW	14.726	2.412	
+sp|O43825|B3GT2_HUMAN Beta-1,3-galactosyltransferase 2 OS=Homo sapiens GN=B3GALT2 PE=1 SV=1	10	QWRRRHCCFAKMTWN	41.627	3.717	
+sp|O43825|B3GT2_HUMAN Beta-1,3-galactosyltransferase 2 OS=Homo sapiens GN=B3GALT2 PE=1 SV=1	374	WRVSYSSCKYSHLIT	4.635	3.717	
+sp|O96024|B3GT4_HUMAN Beta-1,3-galactosyltransferase 4 OS=Homo sapiens GN=B3GALT4 PE=1 SV=1	322	THYPLDRCCYGKFLL	9.157	2.412	
+sp|O96024|B3GT4_HUMAN Beta-1,3-galactosyltransferase 4 OS=Homo sapiens GN=B3GALT4 PE=1 SV=1	323	HYPLDRCCYGKFLLT	4.658	3.717	
+sp|Q9Y2C3|B3GT5_HUMAN Beta-1,3-galactosyltransferase 5 OS=Homo sapiens GN=B3GALT5 PE=2 SV=1	12	KMRLMYICLLVLGAL	27.357	3.717	
+sp|Q9Y2C3|B3GT5_HUMAN Beta-1,3-galactosyltransferase 5 OS=Homo sapiens GN=B3GALT5 PE=2 SV=1	20	LLVLGALCLYFSMYS	17.299	3.717	
+sp|Q9Y2C3|B3GT5_HUMAN Beta-1,3-galactosyltransferase 5 OS=Homo sapiens GN=B3GALT5 PE=2 SV=1	276	GGLRFSVCLFRRIVA	3.719	3.717	
+sp|Q9Y2C3|B3GT5_HUMAN Beta-1,3-galactosyltransferase 5 OS=Homo sapiens GN=B3GALT5 PE=2 SV=1	307	ENSRGEDCPPV****	12.733	10.722	
+sp|Q6ZMB0|B3GN6_HUMAN Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase OS=Homo sapiens GN=B3GNT6 PE=1 SV=2	5	***MAFPCRRSLTAK	39.755	3.717	
+sp|Q6ZMB0|B3GN6_HUMAN Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase OS=Homo sapiens GN=B3GNT6 PE=1 SV=2	315	DDAYMGMCLERAGLA	5.181	3.717	
+sp|Q6ZMB0|B3GN6_HUMAN Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase OS=Homo sapiens GN=B3GNT6 PE=1 SV=2	377	LHSPALSCDRGHRVS	4.33	3.717	
+sp|Q00973|B4GN1_HUMAN Beta-1,4 N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=B4GALNT1 PE=1 SV=2	9	WLGRRALCALVLLLA	13.497	10.722	
+sp|Q00973|B4GN1_HUMAN Beta-1,4 N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=B4GALNT1 PE=1 SV=2	17	ALVLLLACASLGLLY	23.004	3.717	
+sp|Q00973|B4GN1_HUMAN Beta-1,4 N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=B4GALNT1 PE=1 SV=2	476	GSLRVGSCSDVVVDH	10.999	10.722	
+sp|Q96L58|B3GT6_HUMAN Beta-1,3-galactosyltransferase 6 OS=Homo sapiens GN=B3GALT6 PE=1 SV=2	321	WSAPPSQCCQRREGI	10.627	2.412	
+sp|O43505|B4GA1_HUMAN Beta-1,4-glucuronyltransferase 1 OS=Homo sapiens GN=B4GAT1 PE=1 SV=1	9	QMSYAIRCAFYQLLL	37.394	3.717	
+sp|O43505|B4GA1_HUMAN Beta-1,4-glucuronyltransferase 1 OS=Homo sapiens GN=B4GAT1 PE=1 SV=1	415	YPNSPRRC*******	11.844	10.722	
+sp|Q76KP1|B4GN4_HUMAN N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=B4GALNT4 PE=1 SV=1	24	LLLLLLSCAAWLTYV	12.345	3.717	
+sp|Q8NHY0|B4GN2_HUMAN Beta-1,4 N-acetylgalactosaminyltransferase 2 OS=Homo sapiens GN=B4GALNT2 PE=1 SV=2	22	VASRGRECVSGTPEC	10.901	10.722	
+sp|Q8NHY0|B4GN2_HUMAN Beta-1,4 N-acetylgalactosaminyltransferase 2 OS=Homo sapiens GN=B4GALNT2 PE=1 SV=2	449	EQSENGACLHKRMGF	11.128	10.722	
+sp|O60909|B4GT2_HUMAN Beta-1,4-galactosyltransferase 2 OS=Homo sapiens GN=B4GALT2 PE=1 SV=1	20	CKAVLLLCLLHFLVA	13.347	3.717	
+sp|O60512|B4GT3_HUMAN Beta-1,4-galactosyltransferase 3 OS=Homo sapiens GN=B4GALT3 PE=1 SV=2	10	RRLLERPCTLALLVG	17.361	10.722	
+sp|Q9UBX8|B4GT6_HUMAN Beta-1,4-galactosyltransferase 6 OS=Homo sapiens GN=B4GALT6 PE=1 SV=1	28	FFSLSSSCLYFIYVA	11.509	10.722	
+sp|O60513|B4GT4_HUMAN Beta-1,4-galactosyltransferase 4 OS=Homo sapiens GN=B4GALT4 PE=1 SV=1	22	LLLLLTLCLTVVGWA	8.305	3.717	
+sp|Q9UBV7|B4GT7_HUMAN Beta-1,4-galactosyltransferase 7 OS=Homo sapiens GN=B4GALT7 PE=1 SV=1	324	DKTATPWCTFS****	15.602	10.722	
+sp|Q16739|CEGT_HUMAN Ceramide glucosyltransferase OS=Homo sapiens GN=UGCG PE=1 SV=1	321	DIMVFFMCHCLAWFI	4.873	3.717	
+sp|Q16739|CEGT_HUMAN Ceramide glucosyltransferase OS=Homo sapiens GN=UGCG PE=1 SV=1	384	TGRYRLRCGGTAEEI	12.19	10.722	
+sp|Q6UWU4|CF089_HUMAN Bombesin receptor-activated protein C6orf89 OS=Homo sapiens GN=C6orf89 PE=1 SV=1	159	IPANCTGCAQKHLKV	3.808	3.717	
+sp|Q8TDX6|CGAT1_HUMAN Chondroitin sulfate N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=CSGALNACT1 PE=1 SV=2	23	VVLLVLLCCAISVLY	10.376	2.412	
+sp|Q8TDX6|CGAT1_HUMAN Chondroitin sulfate N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=CSGALNACT1 PE=1 SV=2	24	VLLVLLCCAISVLYM	13.215	3.717	
+sp|Q8TDX6|CGAT1_HUMAN Chondroitin sulfate N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=CSGALNACT1 PE=1 SV=2	34	SVLYMLACTPKGDEE	3.957	3.717	
+sp|Q8N6G5|CGAT2_HUMAN Chondroitin sulfate N-acetylgalactosaminyltransferase 2 OS=Homo sapiens GN=CSGALNACT2 PE=1 SV=1	34	LFMYLLECAPQTDGN	3.931	3.717	
+sp|Q9P2E5|CHPF2_HUMAN Chondroitin sulfate glucuronyltransferase OS=Homo sapiens GN=CHPF2 PE=2 SV=2	607	GPEVLNRCRMNAISG	13.899	10.722	
+sp|Q8WUD6|CHPT1_HUMAN Cholinephosphotransferase 1 OS=Homo sapiens GN=CHPT1 PE=1 SV=1	303	LYILMFGCVFAKVSQ	3.998	3.717	
+sp|Q70JA7|CHSS3_HUMAN Chondroitin sulfate synthase 3 OS=Homo sapiens GN=CHSY3 PE=2 SV=3	645	MENFENMCLIPKQNV	3.778	3.717	
+sp|Q86X52|CHSS1_HUMAN Chondroitin sulfate synthase 1 OS=Homo sapiens GN=CHSY1 PE=1 SV=3	644	TTEFLQRCRANTVLG	12.002	10.722	
+sp|O43916|CHST1_HUMAN Carbohydrate sulfotransferase 1 OS=Homo sapiens GN=CHST1 PE=1 SV=1	3	*****MQCSWKAVLL	10.943	10.722	
+sp|Q7LGC8|CHST3_HUMAN Carbohydrate sulfotransferase 3 OS=Homo sapiens GN=CHST3 PE=1 SV=3	11	GLTLPQDCRDFVHSL	11.379	10.722	
+sp|Q8IZ52|CHSS2_HUMAN Chondroitin sulfate synthase 2 OS=Homo sapiens GN=CHPF PE=1 SV=2	628	TPDFLNRCRMHAISG	12.774	10.722	
+sp|Q9NS84|CHST7_HUMAN Carbohydrate sulfotransferase 7 OS=Homo sapiens GN=CHST7 PE=1 SV=2	12	RRRRREYCKFALLLV	12.562	10.722	
+sp|Q9NS84|CHST7_HUMAN Carbohydrate sulfotransferase 7 OS=Homo sapiens GN=CHST7 PE=1 SV=2	202	WRTNKVICSPPLCPG	11.874	10.722	
+sp|Q9H2A9|CHST8_HUMAN Carbohydrate sulfotransferase 8 OS=Homo sapiens GN=CHST8 PE=1 SV=2	12	PGTMRLACMFSSILL	15.612	10.722	
+sp|O43529|CHSTA_HUMAN Carbohydrate sulfotransferase 10 OS=Homo sapiens GN=CHST10 PE=1 SV=1	11	QWLLLAACFWVIFMF	33.081	3.717	
+sp|Q8NET6|CHSTD_HUMAN Carbohydrate sulfotransferase 13 OS=Homo sapiens GN=CHST13 PE=1 SV=1	5	***MGRRCCRRRVLA	15.847	2.412	
+sp|Q8NET6|CHSTD_HUMAN Carbohydrate sulfotransferase 13 OS=Homo sapiens GN=CHST13 PE=1 SV=1	6	**MGRRCCRRRVLAA	42.655	3.717	
+sp|Q7LFX5|CHSTF_HUMAN Carbohydrate sulfotransferase 15 OS=Homo sapiens GN=CHST15 PE=1 SV=1	4	****MRHCINCCIQL	4.309	2.412	
+sp|Q7LFX5|CHSTF_HUMAN Carbohydrate sulfotransferase 15 OS=Homo sapiens GN=CHST15 PE=1 SV=1	7	*MRHCINCCIQLLPD	8.789	2.412	
+sp|Q7LFX5|CHSTF_HUMAN Carbohydrate sulfotransferase 15 OS=Homo sapiens GN=CHST15 PE=1 SV=1	8	MRHCINCCIQLLPDG	42.932	3.717	
+sp|Q9NPF2|CHSTB_HUMAN Carbohydrate sulfotransferase 11 OS=Homo sapiens GN=CHST11 PE=1 SV=1	15	VMRMNRICRMVLATC	25.196	3.717	
+sp|Q9NPF2|CHSTB_HUMAN Carbohydrate sulfotransferase 11 OS=Homo sapiens GN=CHST11 PE=1 SV=1	51	NPFGVDICCRKGSRS	8.154	2.412	
+sp|Q9NPF2|CHSTB_HUMAN Carbohydrate sulfotransferase 11 OS=Homo sapiens GN=CHST11 PE=1 SV=1	52	PFGVDICCRKGSRSP	6.09	3.717	
+sp|Q8NCH0|CHSTE_HUMAN Carbohydrate sulfotransferase 14 OS=Homo sapiens GN=CHST14 PE=1 SV=2	286	WMPVYHLCQPCAVHY	3.804	3.717	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	172	LWYNHEQCCWGSNET	3.691	2.412	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	173	WYNHEQCCWGSNETT	5.213	3.717	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	290	GPLVHVACCCGNIFS	7.195	2.412	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	291	PLVHVACCCGNIFSY	7.371	2.412	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	415	IRANIAWCRRRKSTK	3.769	3.717	
+sp|O60344|ECE2_HUMAN Endothelin-converting enzyme 2 OS=Homo sapiens GN=ECE2 PE=1 SV=4	18	PELPERNCGYREVEY	20.914	3.717	
+sp|O60344|ECE2_HUMAN Endothelin-converting enzyme 2 OS=Homo sapiens GN=ECE2 PE=1 SV=4	880	PMNPGQLCEVW****	15.556	10.722	
+sp|Q9Y227|ENTP4_HUMAN Ectonucleoside triphosphate diphosphohydrolase 4 OS=Homo sapiens GN=ENTPD4 PE=1 SV=1	8	MGRIGISCLFPASWH	38.353	3.717	
+sp|Q9H6L5|RETR1_HUMAN Reticulophagy regulator 1 OS=Homo sapiens GN=RETREG1 PE=1 SV=1	204	CLLVCSVCTFFTILG	5.724	3.717	
+sp|Q9H6L5|RETR1_HUMAN Reticulophagy regulator 1 OS=Homo sapiens GN=RETREG1 PE=1 SV=1	226	LSYLLLLCAFLCPLF	4.223	2.412	
+sp|Q9H6L5|RETR1_HUMAN Reticulophagy regulator 1 OS=Homo sapiens GN=RETREG1 PE=1 SV=1	230	LLLCAFLCPLFKCND	3.761	3.717	
+sp|Q6UWH4|F198B_HUMAN Protein FAM198B OS=Homo sapiens GN=FAM198B PE=2 SV=1	3	*****MTCPDKPGQL	40.949	3.717	
+sp|Q6UWH4|F198B_HUMAN Protein FAM198B OS=Homo sapiens GN=FAM198B PE=2 SV=1	16	QLINWFICSLCVPRV	29.319	3.717	
+sp|Q6UWH4|F198B_HUMAN Protein FAM198B OS=Homo sapiens GN=FAM198B PE=2 SV=1	19	NWFICSLCVPRVRKL	23.034	3.717	
+sp|Q6UWH4|F198B_HUMAN Protein FAM198B OS=Homo sapiens GN=FAM198B PE=2 SV=1	384	YNRLDTNCCGFRPRK	8.733	2.412	
+sp|Q6UWH4|F198B_HUMAN Protein FAM198B OS=Homo sapiens GN=FAM198B PE=2 SV=1	385	NRLDTNCCGFRPRKE	6.091	3.717	
+sp|Q96A29|FUCT1_HUMAN GDP-fucose transporter 1 OS=Homo sapiens GN=SLC35C1 PE=1 SV=1	97	GLSALAACCPGAVDF	2.705	2.412	
+sp|Q96A29|FUCT1_HUMAN GDP-fucose transporter 1 OS=Homo sapiens GN=SLC35C1 PE=1 SV=1	98	LSALAACCPGAVDFP	6.265	3.717	
+sp|Q495W5|FUT11_HUMAN Alpha-(1,3)-fucosyltransferase 11 OS=Homo sapiens GN=FUT11 PE=1 SV=1	19	LLGVLSVCAASGHGS	25.188	3.717	
+sp|Q6P4F1|FUT10_HUMAN Alpha-(1,3)-fucosyltransferase 10 OS=Homo sapiens GN=FUT10 PE=2 SV=2	13	RRKLLASCLCVTATV	12.039	10.722	
+sp|Q6P4F1|FUT10_HUMAN Alpha-(1,3)-fucosyltransferase 10 OS=Homo sapiens GN=FUT10 PE=2 SV=2	15	KLLASCLCVTATVFL	25.725	3.717	
+sp|P19526|FUT1_HUMAN Galactoside 2-alpha-L-fucosyltransferase 1 OS=Homo sapiens GN=FUT1 PE=1 SV=1	10	LRSHRQLCLAFLLVC	13.266	10.722	
+sp|P51993|FUT6_HUMAN Alpha-(1,3)-fucosyltransferase 6 OS=Homo sapiens GN=FUT6 PE=1 SV=1	15	KPQWSWRCCLTTLLF	8.094	2.412	
+sp|Q9BYC5|FUT8_HUMAN Alpha-(1,6)-fucosyltransferase OS=Homo sapiens GN=FUT8 PE=1 SV=2	218	VCNINKGCGYGCQLH	4.504	2.412	
+sp|Q9Y231|FUT9_HUMAN Alpha-(1,3)-fucosyltransferase 9 OS=Homo sapiens GN=FUT9 PE=2 SV=2	16	LRPFLIVCIILGCFM	31.456	3.717	
+sp|Q9Y231|FUT9_HUMAN Alpha-(1,3)-fucosyltransferase 9 OS=Homo sapiens GN=FUT9 PE=2 SV=2	21	IVCIILGCFMACLLI	5.946	2.412	
+sp|Q96A11|G3ST3_HUMAN Galactose-3-O-sulfotransferase 3 OS=Homo sapiens GN=GAL3ST3 PE=1 SV=1	27	ILLLVLGCSTVSLLI	3.982	3.717	
+sp|Q96A11|G3ST3_HUMAN Galactose-3-O-sulfotransferase 3 OS=Homo sapiens GN=GAL3ST3 PE=1 SV=1	51	PKLFPLSCPPLRNSP	4.068	3.717	
+sp|Q10472|GALT1_HUMAN Polypeptide N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=GALNT1 PE=1 SV=1	7	*MRKFAYCKVVLATS	40.558	3.717	
+sp|Q10472|GALT1_HUMAN Polypeptide N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=GALNT1 PE=1 SV=1	31	LLLYFSECNKCDEKK	3.917	3.717	
+sp|Q10471|GALT2_HUMAN Polypeptide N-acetylgalactosaminyltransferase 2 OS=Homo sapiens GN=GALNT2 PE=1 SV=1	10	RRSRMLLCFAFLWVL	14.992	10.722	
+sp|Q10471|GALT2_HUMAN Polypeptide N-acetylgalactosaminyltransferase 2 OS=Homo sapiens GN=GALNT2 PE=1 SV=1	423	ELRKKLSCKPFKWYL	5.229	3.717	
+sp|Q14435|GALT3_HUMAN Polypeptide N-acetylgalactosaminyltransferase 3 OS=Homo sapiens GN=GALNT3 PE=1 SV=2	618	EHPSLVSCNPSDPLQ	4.221	3.717	
+sp|Q8N4A0|GALT4_HUMAN Polypeptide N-acetylgalactosaminyltransferase 4 OS=Homo sapiens GN=GALNT4 PE=1 SV=2	12	WTWAGKSCLLLAFLT	14.859	10.722	
+sp|Q7Z7M9|GALT5_HUMAN Polypeptide N-acetylgalactosaminyltransferase 5 OS=Homo sapiens GN=GALNT5 PE=1 SV=1	503	PTTSVIMCFVDEVWS	4.087	3.717	
+sp|Q7Z7M9|GALT5_HUMAN Polypeptide N-acetylgalactosaminyltransferase 5 OS=Homo sapiens GN=GALNT5 PE=1 SV=1	709	LSFKVWMCGGEIEII	4.825	3.717	
+sp|Q8NCL4|GALT6_HUMAN Polypeptide N-acetylgalactosaminyltransferase 6 OS=Homo sapiens GN=GALNT6 PE=2 SV=2	18	LRLAMVGCAFVLFLF	24.232	3.717	
+sp|Q8N5D6|GBGT1_HUMAN Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=GBGT1 PE=2 SV=2	13	LALGLGFCLLAGTSL	29.858	3.717	
+sp|Q8N5D6|GBGT1_HUMAN Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1 OS=Homo sapiens GN=GBGT1 PE=2 SV=2	344	TLDKDISCLRS****	13.393	10.722	
+sp|Q5T4J0|GCNT6_HUMAN Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase 6 OS=Homo sapiens GN=GCNT6 PE=3 SV=2	6	**MKVWSCYLCIITL	21.632	10.722	
+sp|Q5T4J0|GCNT6_HUMAN Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase 6 OS=Homo sapiens GN=GCNT6 PE=3 SV=2	9	KVWSCYLCIITLQII	14.24	10.722	
+sp|Q5T4J0|GCNT6_HUMAN Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase 6 OS=Homo sapiens GN=GCNT6 PE=3 SV=2	386	NKWGFWNCYLHLK**	12.526	10.722	
+sp|Q6ZNI0|GCNT7_HUMAN Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase 7 OS=Homo sapiens GN=GCNT7 PE=2 SV=2	18	LVVRAVICIFIFLYL	25.824	3.717	
+sp|Q9P109|GCNT4_HUMAN Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase 4 OS=Homo sapiens GN=GCNT4 PE=2 SV=1	6	**MKIFKCYFKHTLQ	35.357	3.717	
+sp|O95395|GCNT3_HUMAN Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase 3 OS=Homo sapiens GN=GCNT3 PE=2 SV=1	8	MVQWKRLCQLHYLWA	37.371	3.717	
+sp|O94923|GLCE_HUMAN D-glucuronyl C5-epimerase OS=Homo sapiens GN=GLCE PE=1 SV=3	3	*****MRCLAARVNY	16.086	10.722	
+sp|O94923|GLCE_HUMAN D-glucuronyl C5-epimerase OS=Homo sapiens GN=GLCE PE=1 SV=3	17	YKTLIIICALFTLVT	28.629	3.717	
+sp|Q8NCW6|GLT11_HUMAN Polypeptide N-acetylgalactosaminyltransferase 11 OS=Homo sapiens GN=GALNT11 PE=1 SV=2	10	SVTVRYFCYGCLFTS	33.958	3.717	
+sp|Q8NCW6|GLT11_HUMAN Polypeptide N-acetylgalactosaminyltransferase 11 OS=Homo sapiens GN=GALNT11 PE=1 SV=2	13	VRYFCYGCLFTSATW	28.937	3.717	
+sp|Q8NCW6|GLT11_HUMAN Polypeptide N-acetylgalactosaminyltransferase 11 OS=Homo sapiens GN=GALNT11 PE=1 SV=2	441	ELRKKLGCKSFKWYL	4.623	3.717	
+sp|Q86SR1|GLT10_HUMAN Polypeptide N-acetylgalactosaminyltransferase 10 OS=Homo sapiens GN=GALNT10 PE=1 SV=2	563	YHPVSGSCMDCSESD	10.778	10.722	
+sp|Q86SR1|GLT10_HUMAN Polypeptide N-acetylgalactosaminyltransferase 10 OS=Homo sapiens GN=GALNT10 PE=1 SV=2	566	VSGSCMDCSESDHRI	3.838	3.717	
+sp|Q8IXK2|GLT12_HUMAN Polypeptide N-acetylgalactosaminyltransferase 12 OS=Homo sapiens GN=GALNT12 PE=1 SV=3	10	GRTARRRCPRELRRG	19.711	10.722	
+sp|Q8IUC8|GLT13_HUMAN Polypeptide N-acetylgalactosaminyltransferase 13 OS=Homo sapiens GN=GALNT13 PE=2 SV=2	7	*MRRFVYCKVVLATS	41.494	3.717	
+sp|Q96FL9|GLT14_HUMAN Polypeptide N-acetylgalactosaminyltransferase 14 OS=Homo sapiens GN=GALNT14 PE=1 SV=1	493	APVVLVLCKNGDDRQ	4.203	3.717	
+sp|Q8N3T1|GLT15_HUMAN Polypeptide N-acetylgalactosaminyltransferase 15 OS=Homo sapiens GN=GALNT15 PE=2 SV=2	12	KRYRHRPCRLQFLLL	17.497	10.722	
+sp|Q8N3T1|GLT15_HUMAN Polypeptide N-acetylgalactosaminyltransferase 15 OS=Homo sapiens GN=GALNT15 PE=2 SV=2	25	LLLLMLGCVLMMVAM	3.9	3.717	
+sp|Q8N428|GLT16_HUMAN Polypeptide N-acetylgalactosaminyltransferase 16 OS=Homo sapiens GN=GALNT16 PE=1 SV=2	506	SPVILQMCNPREGKQ	6.975	3.717	
+sp|Q6P9A2|GLT18_HUMAN Polypeptide N-acetylgalactosaminyltransferase 18 OS=Homo sapiens GN=GALNT18 PE=2 SV=2	3	*****MVCTRKTKTL	41.293	3.717	
+sp|Q49A17|GLTL6_HUMAN Polypeptide N-acetylgalactosaminyltransferase-like 6 OS=Homo sapiens GN=GALNTL6 PE=2 SV=2	561	VSNSCMDCNPAEKKI	5.524	3.717	
+sp|Q49A17|GLTL6_HUMAN Polypeptide N-acetylgalactosaminyltransferase-like 6 OS=Homo sapiens GN=GALNTL6 PE=2 SV=2	573	KKIFMARCDPLSETQ	4.607	3.717	
+sp|Q8N0V5|GNT2A_HUMAN N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase OS=Homo sapiens GN=GCNT2 PE=1 SV=1	8	MMGSWKHCLFSASLI	35.987	3.717	
+sp|Q8N0V5|GNT2A_HUMAN N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase OS=Homo sapiens GN=GCNT2 PE=1 SV=1	338	MEDRHGGCHGHYVHG	11.132	10.722	
+sp|O00461|GOLI4_HUMAN Golgi integral membrane protein 4 OS=Homo sapiens GN=GOLIM4 PE=1 SV=1	6	**MGNGMCSRKQKRI	42.595	3.717	
+sp|Q5VW38|GP107_HUMAN Protein GPR107 OS=Homo sapiens GN=GPR107 PE=1 SV=1	411	LFLVDLLCCGAILFP	8.805	2.412	
+sp|P0CG08|GPHRB_HUMAN Golgi pH regulator B OS=Homo sapiens GN=GPR89B PE=1 SV=1	52	SVTFAFSCTMFELII	12.817	10.722	
+sp|P0CG08|GPHRB_HUMAN Golgi pH regulator B OS=Homo sapiens GN=GPR89B PE=1 SV=1	114	KQRLLFSCLLWLTFM	14.69	10.722	
+sp|B7ZAQ6|GPHRA_HUMAN Golgi pH regulator A OS=Homo sapiens GN=GPR89A PE=1 SV=2	52	SVTFAFSCTMFELII	12.817	10.722	
+sp|B7ZAQ6|GPHRA_HUMAN Golgi pH regulator A OS=Homo sapiens GN=GPR89A PE=1 SV=2	114	KQRLLFSCLLWLTFM	14.69	10.722	
+sp|A8MVW5|HECA2_HUMAN HEPACAM family member 2 OS=Homo sapiens GN=HEPACAM2 PE=1 SV=1	316	KTMDYVCCAYNNITG	5.808	3.717	
+sp|A8MVW5|HECA2_HUMAN HEPACAM family member 2 OS=Homo sapiens GN=HEPACAM2 PE=1 SV=1	367	LFLIISMCLLFLWKK	3.832	3.717	
+sp|Q96QI5|HS3S6_HUMAN Heparan sulfate glucosamine 3-O-sulfotransferase 6 OS=Homo sapiens GN=HS3ST6 PE=1 SV=2	45	VLGAYCLCALPGRCP	4.283	3.717	
+sp|Q96QI5|HS3S6_HUMAN Heparan sulfate glucosamine 3-O-sulfotransferase 6 OS=Homo sapiens GN=HS3ST6 PE=1 SV=2	129	EPHFFDRCYERGLAW	3.72	3.717	
+sp|Q9Y662|HS3SB_HUMAN Heparan sulfate glucosamine 3-O-sulfotransferase 3B1 OS=Homo sapiens GN=HS3ST3B1 PE=1 SV=1	11	RLSGGRSCLDVPGRL	11.871	10.722	
+sp|Q9Y662|HS3SB_HUMAN Heparan sulfate glucosamine 3-O-sulfotransferase 3B1 OS=Homo sapiens GN=HS3ST3B1 PE=1 SV=1	51	LYMFLYSCAGSCAAA	4.008	3.717	
+sp|Q9Y278|HS3S2_HUMAN Heparan sulfate glucosamine 3-O-sulfotransferase 2 OS=Homo sapiens GN=HS3ST2 PE=1 SV=1	34	SLSCTYLCYSFLCCC	3.181	2.412	
+sp|Q9Y278|HS3S2_HUMAN Heparan sulfate glucosamine 3-O-sulfotransferase 2 OS=Homo sapiens GN=HS3ST2 PE=1 SV=1	39	YLCYSFLCCCDDLGR	12.838	2.412	
+sp|Q9Y278|HS3S2_HUMAN Heparan sulfate glucosamine 3-O-sulfotransferase 2 OS=Homo sapiens GN=HS3ST2 PE=1 SV=1	40	LCYSFLCCCDDLGRS	10.959	2.412	
+sp|Q9Y278|HS3S2_HUMAN Heparan sulfate glucosamine 3-O-sulfotransferase 2 OS=Homo sapiens GN=HS3ST2 PE=1 SV=1	41	CYSFLCCCDDLGRSR	5.854	3.717	
+sp|Q9NRX6|KISHB_HUMAN Protein kish-B OS=Homo sapiens GN=TMEM167B PE=3 SV=1	19	VFGLLFVCTCAYFKK	24.71	3.717	
+sp|Q9NRX6|KISHB_HUMAN Protein kish-B OS=Homo sapiens GN=TMEM167B PE=3 SV=1	21	GLLFVCTCAYFKKVP	8.935	3.717	
+sp|Q8TBQ9|KISHA_HUMAN Protein kish-A OS=Homo sapiens GN=TMEM167A PE=1 SV=1	19	TVILLLICTCAYIRS	22.591	3.717	
+sp|Q8TBQ9|KISHA_HUMAN Protein kish-A OS=Homo sapiens GN=TMEM167A PE=1 SV=1	21	ILLLICTCAYIRSLA	14.804	3.717	
+sp|Q8TBQ9|KISHA_HUMAN Protein kish-A OS=Homo sapiens GN=TMEM167A PE=1 SV=1	60	KSPYVAVCCIVMAFS	9.641	2.412	
+sp|Q8N3Y3|LARG2_HUMAN LARGE xylosyl- and glucuronyltransferase 2 OS=Homo sapiens GN=LARGE2 PE=1 SV=2	450	LQMLEALCRHWPGPM	4.245	3.717	
+sp|Q8NES3|LFNG_HUMAN Beta-1,3-N-acetylglucosaminyltransferase lunatic fringe OS=Homo sapiens GN=LFNG PE=1 SV=2	5	***MLKRCGRRLLLA	38.233	3.717	
+sp|Q96Q04|LMTK3_HUMAN Serine/threonine-protein kinase LMTK3 OS=Homo sapiens GN=LMTK3 PE=1 SV=2	18	AAVSASGCLASPAHP	12.566	10.722	
+sp|Q96Q04|LMTK3_HUMAN Serine/threonine-protein kinase LMTK3 OS=Homo sapiens GN=LMTK3 PE=1 SV=2	61	FLLLTCLCCKRGDVG	14.173	2.412	
+sp|Q96Q04|LMTK3_HUMAN Serine/threonine-protein kinase LMTK3 OS=Homo sapiens GN=LMTK3 PE=1 SV=2	62	LLLTCLCCKRGDVGF	11.872	3.717	
+sp|O00453|LST1_HUMAN Leukocyte-specific transcript 1 protein OS=Homo sapiens GN=LST1 PE=1 SV=2	9	LSRNDDICIYGGLGL	14.742	10.722	
+sp|Q16706|MA2A1_HUMAN Alpha-mannosidase 2 OS=Homo sapiens GN=MAN2A1 PE=1 SV=2	16	VFGSAIFCVVIFSLY	26.898	3.717	
+sp|Q16706|MA2A1_HUMAN Alpha-mannosidase 2 OS=Homo sapiens GN=MAN2A1 PE=1 SV=2	367	CGPDPKICCQFDFKR	5.935	2.412	
+sp|Q16706|MA2A1_HUMAN Alpha-mannosidase 2 OS=Homo sapiens GN=MAN2A1 PE=1 SV=2	368	GPDPKICCQFDFKRL	4.761	3.717	
+sp|P49641|MA2A2_HUMAN Alpha-mannosidase 2x OS=Homo sapiens GN=MAN2A2 PE=2 SV=3	10	LKKQVTVCGAAIFCV	11.721	10.722	
+sp|P49641|MA2A2_HUMAN Alpha-mannosidase 2x OS=Homo sapiens GN=MAN2A2 PE=2 SV=3	16	VCGAAIFCVAVFSLY	27.479	3.717	
+sp|P49641|MA2A2_HUMAN Alpha-mannosidase 2x OS=Homo sapiens GN=MAN2A2 PE=2 SV=3	367	CGPDPKICCQFDFKR	5.043	2.412	
+sp|P49641|MA2A2_HUMAN Alpha-mannosidase 2x OS=Homo sapiens GN=MAN2A2 PE=2 SV=3	368	GPDPKICCQFDFKRL	5.336	3.717	
+sp|Q5SRI9|MANEA_HUMAN Glycoprotein endo-alpha-1,2-mannosidase OS=Homo sapiens GN=MANEA PE=1 SV=1	9	AKFRRRTCIILALFI	11.332	10.722	
+sp|Q5VSG8|MANEL_HUMAN Glycoprotein endo-alpha-1,2-mannosidase-like protein OS=Homo sapiens GN=MANEAL PE=2 SV=1	9	ARRRRRACIALFLVL	12.813	10.722	
+sp|Q9P2E8|MARH4_HUMAN E3 ubiquitin-protein ligase MARCH4 OS=Homo sapiens GN=MARCH4 PE=2 SV=2	6	**MLMPLCGLLWWWW	39.743	3.717	
+sp|Q9P2E8|MARH4_HUMAN E3 ubiquitin-protein ligase MARCH4 OS=Homo sapiens GN=MARCH4 PE=2 SV=2	14	GLLWWWWCCCSGWYC	10.1	2.412	
+sp|Q9P2E8|MARH4_HUMAN E3 ubiquitin-protein ligase MARCH4 OS=Homo sapiens GN=MARCH4 PE=2 SV=2	15	LLWWWWCCCSGWYCY	8.405	2.412	
+sp|Q9P2E8|MARH4_HUMAN E3 ubiquitin-protein ligase MARCH4 OS=Homo sapiens GN=MARCH4 PE=2 SV=2	16	LWWWWCCCSGWYCYG	38.03	3.717	
+sp|O00587|MFNG_HUMAN Beta-1,3-N-acetylglucosaminyltransferase manic fringe OS=Homo sapiens GN=MFNG PE=1 SV=2	3	*****MQCRLPRGLA	38.394	3.717	
+sp|O00587|MFNG_HUMAN Beta-1,3-N-acetylglucosaminyltransferase manic fringe OS=Homo sapiens GN=MFNG PE=1 SV=2	18	GALLTLLCMGLLCLR	25.213	3.717	
+sp|O00587|MFNG_HUMAN Beta-1,3-N-acetylglucosaminyltransferase manic fringe OS=Homo sapiens GN=MFNG PE=1 SV=2	23	LLCMGLLCLRYHLNL	4.702	3.717	
+sp|Q10469|MGAT2_HUMAN Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase OS=Homo sapiens GN=MGAT2 PE=1 SV=1	20	LTLVVAACGFVLWSS	9.342	3.717	
+sp|Q10469|MGAT2_HUMAN Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase OS=Homo sapiens GN=MGAT2 PE=1 SV=1	196	PGSDPRDCPRDLPKN	10.978	10.722	
+sp|Q09327|MGAT3_HUMAN Beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase OS=Homo sapiens GN=MGAT3 PE=2 SV=3	18	MFCMAGLCLISFLHF	23.763	3.717	
+sp|Q9UBM8|MGT4C_HUMAN Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase C OS=Homo sapiens GN=MGAT4C PE=2 SV=2	19	EILDKMRCLRKRSTV	23.279	3.717	
+sp|Q09328|MGT5A_HUMAN Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase A OS=Homo sapiens GN=MGAT5 PE=2 SV=1	713	GDLLLFSCAGAHPRH	5.104	3.717	
+sp|Q3V5L5|MGT5B_HUMAN Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase B OS=Homo sapiens GN=MGAT5B PE=1 SV=2	15	GKIMVRRCLVTLRPF	12.225	10.722	
+sp|Q3V5L5|MGT5B_HUMAN Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase B OS=Homo sapiens GN=MGAT5B PE=1 SV=2	764	KEPLLFSCAGSNTKY	4.042	3.717	
+sp|Q9UQ53|MGT4B_HUMAN Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B OS=Homo sapiens GN=MGAT4B PE=1 SV=1	15	FLTLLLFCLCAFLSL	23.969	3.717	
+sp|Q9UQ53|MGT4B_HUMAN Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B OS=Homo sapiens GN=MGAT4B PE=1 SV=1	17	TLLLFCLCAFLSLSW	33.346	3.717	
+sp|Q7RTY0|MOT13_HUMAN Monocarboxylate transporter 13 OS=Homo sapiens GN=SLC16A13 PE=1 SV=1	131	PTLACLSCYFSRRRS	5.619	3.717	
+sp|Q9UK23|NAGPA_HUMAN N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase OS=Homo sapiens GN=NAGPA PE=1 SV=2	408	GCQRPCKCEHHCPCD	4.39	2.412	
+sp|Q71RS6|NCKX5_HUMAN Sodium/potassium/calcium exchanger 5 OS=Homo sapiens GN=SLC24A5 PE=1 SV=1	228	NQYIIKKCSPCCACL	4.293	2.412	
+sp|Q71RS6|NCKX5_HUMAN Sodium/potassium/calcium exchanger 5 OS=Homo sapiens GN=SLC24A5 PE=1 SV=1	231	IIKKCSPCCACLAKA	7.985	2.412	
+sp|Q71RS6|NCKX5_HUMAN Sodium/potassium/calcium exchanger 5 OS=Homo sapiens GN=SLC24A5 PE=1 SV=1	232	IKKCSPCCACLAKAM	6.089	3.717	
+sp|Q71RS6|NCKX5_HUMAN Sodium/potassium/calcium exchanger 5 OS=Homo sapiens GN=SLC24A5 PE=1 SV=1	498	GNNKIRGCGG*****	12.671	10.722	
+sp|P52848|NDST1_HUMAN Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1 OS=Homo sapiens GN=NDST1 PE=1 SV=1	6	**MPALACLRRLCRH	37.141	3.717	
+sp|P52848|NDST1_HUMAN Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1 OS=Homo sapiens GN=NDST1 PE=1 SV=1	11	LACLRRLCRHVSPQA	35.124	3.717	
+sp|O95803|NDST3_HUMAN Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 3 OS=Homo sapiens GN=NDST3 PE=2 SV=1	22	VILLATFCMVSIIIS	9.579	3.717	
+sp|O95803|NDST3_HUMAN Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 3 OS=Homo sapiens GN=NDST3 PE=2 SV=1	193	GNLAVKDCCINPHSP	11.228	2.412	
+sp|O95803|NDST3_HUMAN Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 3 OS=Homo sapiens GN=NDST3 PE=2 SV=1	194	NLAVKDCCINPHSPL	5.123	3.717	
+sp|Q9H3R1|NDST4_HUMAN Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 4 OS=Homo sapiens GN=NDST4 PE=2 SV=1	22	IVLLATFCLVSIVIS	6.054	3.717	
+sp|Q9NV92|NFIP2_HUMAN NEDD4 family-interacting protein 2 OS=Homo sapiens GN=NDFIP2 PE=1 SV=2	10	RRRSQRVCASGPSML	16	10.722	
+sp|Q9NV92|NFIP2_HUMAN NEDD4 family-interacting protein 2 OS=Homo sapiens GN=NDFIP2 PE=1 SV=2	266	AGRYGAICGFGLSLI	12.916	10.722	
+sp|P42857|NSG1_HUMAN Neuron-specific protein family member 1 OS=Homo sapiens GN=NSG1 PE=1 SV=1	112	VYKYDRACPDGFVLK	15.656	10.722	
+sp|Q9Y328|NSG2_HUMAN Neuron-specific protein family member 2 OS=Homo sapiens GN=NSG2 PE=2 SV=1	85	LALAFLACIVFLVVY	11.711	10.722	
+sp|Q9Y328|NSG2_HUMAN Neuron-specific protein family member 2 OS=Homo sapiens GN=NSG2 PE=2 SV=1	101	AFTYDHSCPEGFVYK	18.983	10.722	
+sp|O15243|OBRG_HUMAN Leptin receptor gene-related protein OS=Homo sapiens GN=LEPROT PE=1 SV=1	25	LTFLMLGCALEDYGV	4.403	3.717	
+sp|Q6TCH7|PAQR3_HUMAN Progestin and adipoQ receptor family member 3 OS=Homo sapiens GN=PAQR3 PE=1 SV=2	114	ICSICLFCFQVCMLC	6.639	2.412	
+sp|Q6TCH7|PAQR3_HUMAN Progestin and adipoQ receptor family member 3 OS=Homo sapiens GN=PAQR3 PE=1 SV=2	304	QYRHSKPCPDYVSHL	12.664	10.722	
+sp|Q16549|PCSK7_HUMAN Proprotein convertase subtilisin/kexin type 7 OS=Homo sapiens GN=PCSK7 PE=1 SV=2	20	APLGLPTCLWLELAG	21.991	3.717	
+sp|Q16549|PCSK7_HUMAN Proprotein convertase subtilisin/kexin type 7 OS=Homo sapiens GN=PCSK7 PE=1 SV=2	699	NVASNQVCRSGPCHW	5.257	2.412	
+sp|Q969W9|PMEPA_HUMAN Protein TMEPAI OS=Homo sapiens GN=PMEPA1 PE=1 SV=1	24	QPNVSCTCNCKRSLF	9.548	3.717	
+sp|Q8TE99|PXYP1_HUMAN 2-phosphoxylose phosphatase 1 OS=Homo sapiens GN=PXYLP1 PE=1 SV=1	447	KRSPKPMCPLENLVR	4.213	3.717	
+sp|O15258|RER1_HUMAN Protein RER1 OS=Homo sapiens GN=RER1 PE=1 SV=1	159	MYFIMLFCITMKRQI	4.037	3.717	
+sp|Q9Y644|RFNG_HUMAN Beta-1,3-N-acetylglucosaminyltransferase radical fringe OS=Homo sapiens GN=RFNG PE=2 SV=3	9	SRARGALCRACLALA	19.319	10.722	
+sp|Q9Y644|RFNG_HUMAN Beta-1,3-N-acetylglucosaminyltransferase radical fringe OS=Homo sapiens GN=RFNG PE=2 SV=3	12	RGALCRACLALAAAL	27.304	3.717	
+sp|Q9Y644|RFNG_HUMAN Beta-1,3-N-acetylglucosaminyltransferase radical fringe OS=Homo sapiens GN=RFNG PE=2 SV=3	124	VRTRQALCCKMSVEY	8.362	2.412	
+sp|Q6NTF9|RHBD2_HUMAN Rhomboid domain-containing protein 2 OS=Homo sapiens GN=RHBDD2 PE=2 SV=2	8	MAASGPGCRSWCLCP	16.653	10.722	
+sp|Q6NTF9|RHBD2_HUMAN Rhomboid domain-containing protein 2 OS=Homo sapiens GN=RHBDD2 PE=2 SV=2	12	GPGCRSWCLCPEVPS	21.976	10.722	
+sp|Q6NTF9|RHBD2_HUMAN Rhomboid domain-containing protein 2 OS=Homo sapiens GN=RHBDD2 PE=2 SV=2	14	GCRSWCLCPEVPSAT	4.606	2.412	
+sp|Q6NTF9|RHBD2_HUMAN Rhomboid domain-containing protein 2 OS=Homo sapiens GN=RHBDD2 PE=2 SV=2	286	KLASWPSCTPGHMPT	7.391	3.717	
+sp|Q9Y225|RNF24_HUMAN RING finger protein 24 OS=Homo sapiens GN=RNF24 PE=1 SV=1	43	FILSLLFCCYLIRLR	16.006	2.412	
+sp|Q9Y225|RNF24_HUMAN RING finger protein 24 OS=Homo sapiens GN=RNF24 PE=1 SV=1	44	ILSLLFCCYLIRLRH	5.571	3.717	
+sp|Q9Y225|RNF24_HUMAN RING finger protein 24 OS=Homo sapiens GN=RNF24 PE=1 SV=1	96	DELGICPCKHAFHRK	3.861	3.717	
+sp|Q9Y225|RNF24_HUMAN RING finger protein 24 OS=Homo sapiens GN=RNF24 PE=1 SV=1	118	VRKVCPLCNMPVLQL	3.896	3.717	
+sp|Q96G79|S35A4_HUMAN Probable UDP-sugar transporter protein SLC35A4 OS=Homo sapiens GN=SLC35A4 PE=2 SV=1	65	ELTKLLLCAFSLLVG	11.161	10.722	
+sp|P78382|S35A1_HUMAN CMP-sialic acid transporter OS=Homo sapiens GN=SLC35A1 PE=2 SV=1	16	TLLFKLYCLAVMTLM	30.611	3.717	
+sp|P78382|S35A1_HUMAN CMP-sialic acid transporter OS=Homo sapiens GN=SLC35A1 PE=2 SV=1	127	TYQLKIPCTALCTVL	2.839	2.412	
+sp|P78382|S35A1_HUMAN CMP-sialic acid transporter OS=Homo sapiens GN=SLC35A1 PE=2 SV=1	152	WVSVFMLCAGVTLVQ	8.309	3.717	
+sp|Q9H1N7|S35B3_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 2 OS=Homo sapiens GN=SLC35B3 PE=1 SV=1	177	PTQVIFKCCKLIPVM	7.117	2.412	
+sp|Q9H1N7|S35B3_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 2 OS=Homo sapiens GN=SLC35B3 PE=1 SV=1	178	TQVIFKCCKLIPVML	5.761	3.717	
+sp|Q9H1N7|S35B3_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 2 OS=Homo sapiens GN=SLC35B3 PE=1 SV=1	237	VLISLALCADAVIGN	4.186	3.717	
+sp|Q969S0|S35B4_HUMAN UDP-xylose and UDP-N-acetylglucosamine transporter OS=Homo sapiens GN=SLC35B4 PE=1 SV=1	14	VGLVFAGCCSNVIFL	6.816	2.412	
+sp|Q969S0|S35B4_HUMAN UDP-xylose and UDP-N-acetylglucosamine transporter OS=Homo sapiens GN=SLC35B4 PE=1 SV=1	15	GLVFAGCCSNVIFLE	31.078	3.717	
+sp|Q969S0|S35B4_HUMAN UDP-xylose and UDP-N-acetylglucosamine transporter OS=Homo sapiens GN=SLC35B4 PE=1 SV=1	31	LARKHPGCGNIVTFA	13.398	10.722	
+sp|Q96H72|S39AD_HUMAN Zinc transporter ZIP13 OS=Homo sapiens GN=SLC39A13 PE=1 SV=3	4	****MPGCPCPGCGM	6.548	2.412	
+sp|Q96H72|S39AD_HUMAN Zinc transporter ZIP13 OS=Homo sapiens GN=SLC39A13 PE=1 SV=3	6	**MPGCPCPGCGMAG	7.641	2.412	
+sp|Q96H72|S39AD_HUMAN Zinc transporter ZIP13 OS=Homo sapiens GN=SLC39A13 PE=1 SV=3	9	PGCPCPGCGMAGPRL	14.691	10.722	
+sp|O15126|SCAM1_HUMAN Secretory carrier-associated membrane protein 1 OS=Homo sapiens GN=SCAMP1 PE=1 SV=2	197	WFLLFTPCSFVCWYR	4.013	2.412	
+sp|O15126|SCAM1_HUMAN Secretory carrier-associated membrane protein 1 OS=Homo sapiens GN=SCAMP1 PE=1 SV=2	201	FTPCSFVCWYRPLYG	2.419	2.412	
+sp|Q9Y274|SIA10_HUMAN Type 2 lactosamine alpha-2,3-sialyltransferase OS=Homo sapiens GN=ST3GAL6 PE=1 SV=1	21	FLYYVLHCILWGTNV	5.613	3.717	
+sp|Q9Y274|SIA10_HUMAN Type 2 lactosamine alpha-2,3-sialyltransferase OS=Homo sapiens GN=ST3GAL6 PE=1 SV=1	65	HQFHPFLCAADFRKI	3.976	3.717	
+sp|Q11201|SIA4A_HUMAN CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1 OS=Homo sapiens GN=ST3GAL1 PE=2 SV=1	142	RSVGCRRCAVVGNSG	5.009	3.717	
+sp|Q16842|SIA4B_HUMAN CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 2 OS=Homo sapiens GN=ST3GAL2 PE=2 SV=1	3	*****MKCSLRVWFL	23.305	10.722	
+sp|Q9NSC7|SIA7A_HUMAN Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 OS=Homo sapiens GN=ST6GALNAC1 PE=2 SV=1	4	****MRSCLWRCRHL	41.76	3.717	
+sp|Q9NSC7|SIA7A_HUMAN Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 OS=Homo sapiens GN=ST6GALNAC1 PE=2 SV=1	8	MRSCLWRCRHLSQGV	35.055	3.717	
+sp|Q9UJ37|SIA7B_HUMAN Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2 OS=Homo sapiens GN=ST6GALNAC2 PE=1 SV=1	19	LLLLTAACSGLLFAL	20.74	3.717	
+sp|Q9H4F1|SIA7D_HUMAN Alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3-N-acetyl-galactosaminide alpha-2,6-sialyltransferase OS=Homo sapiens GN=ST6GALNAC4 PE=2 SV=2	13	RLVLIILCSVVFSAV	24.987	3.717	
+sp|Q9H4F1|SIA7D_HUMAN Alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3-N-acetyl-galactosaminide alpha-2,6-sialyltransferase OS=Homo sapiens GN=ST6GALNAC4 PE=2 SV=2	25	SAVYILLCCWAGLPL	11.13	2.412	
+sp|Q9H4F1|SIA7D_HUMAN Alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3-N-acetyl-galactosaminide alpha-2,6-sialyltransferase OS=Homo sapiens GN=ST6GALNAC4 PE=2 SV=2	26	AVYILLCCWAGLPLC	6.851	3.717	
+sp|Q969X2|SIA7F_HUMAN Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 6 OS=Homo sapiens GN=ST6GALNAC6 PE=1 SV=1	3	*****MACSRPPSQC	37.723	3.717	
+sp|Q9BVH7|SIA7E_HUMAN Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5 OS=Homo sapiens GN=ST6GALNAC5 PE=2 SV=1	12	MRHGLAVCLALTTMC	16.139	10.722	
+sp|Q9BVH7|SIA7E_HUMAN Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5 OS=Homo sapiens GN=ST6GALNAC5 PE=2 SV=1	19	CLALTTMCTSLLLVY	25.016	3.717	
+sp|Q8NDV1|SIA7C_HUMAN Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 OS=Homo sapiens GN=ST6GALNAC3 PE=2 SV=1	3	*****MACILKRKSV	12.568	10.722	
+sp|Q8NDV1|SIA7C_HUMAN Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 OS=Homo sapiens GN=ST6GALNAC3 PE=2 SV=1	39	NFPLLLNCFGQPGTK	5.776	3.717	
+sp|Q92185|SIA8A_HUMAN Alpha-N-acetylneuraminide alpha-2,8-sialyltransferase OS=Homo sapiens GN=ST8SIA1 PE=1 SV=1	4	****MSPCGRARRQT	39.02	3.717	
+sp|Q92185|SIA8A_HUMAN Alpha-N-acetylneuraminide alpha-2,8-sialyltransferase OS=Homo sapiens GN=ST8SIA1 PE=1 SV=1	86	RKQMEDCCDPAHLFA	4.741	3.717	
+sp|O43173|SIA8C_HUMAN Sia-alpha-2,3-Gal-beta-1,4-GlcNAc-R:alpha 2,8-sialyltransferase OS=Homo sapiens GN=ST8SIA3 PE=1 SV=3	4	****MRNCKMARVAS	39.214	3.717	
+sp|O15466|SIA8E_HUMAN Alpha-2,8-sialyltransferase 8E OS=Homo sapiens GN=ST8SIA5 PE=1 SV=2	24	TLLFIFICAFALVTL	8.989	3.717	
+sp|O15466|SIA8E_HUMAN Alpha-2,8-sialyltransferase 8E OS=Homo sapiens GN=ST8SIA5 PE=1 SV=2	110	FKSTLSRCCNAPAFL	5.748	2.412	
+sp|O15466|SIA8E_HUMAN Alpha-2,8-sialyltransferase 8E OS=Homo sapiens GN=ST8SIA5 PE=1 SV=2	111	KSTLSRCCNAPAFLF	4.235	3.717	
+sp|O15466|SIA8E_HUMAN Alpha-2,8-sialyltransferase 8E OS=Homo sapiens GN=ST8SIA5 PE=1 SV=2	375	VHTGTCSCC******	11.55	2.412	
+sp|O15466|SIA8E_HUMAN Alpha-2,8-sialyltransferase 8E OS=Homo sapiens GN=ST8SIA5 PE=1 SV=2	376	HTGTCSCC*******	5.448	3.717	
+sp|P61647|SIA8F_HUMAN Alpha-2,8-sialyltransferase 8F OS=Homo sapiens GN=ST8SIA6 PE=2 SV=1	132	FRAKLASCCDAVQNF	2.753	2.412	
+sp|P61647|SIA8F_HUMAN Alpha-2,8-sialyltransferase 8F OS=Homo sapiens GN=ST8SIA6 PE=2 SV=1	395	LKLQFSKCEVA****	12.165	10.722	
+sp|Q96JF0|SIAT2_HUMAN Beta-galactoside alpha-2,6-sialyltransferase 2 OS=Homo sapiens GN=ST6GAL2 PE=1 SV=2	448	ILIMMSMCREVHVYE	3.846	3.717	
+sp|Q11203|SIAT6_HUMAN CMP-N-acetylneuraminate-beta-1,4-galactoside alpha-2,3-sialyltransferase OS=Homo sapiens GN=ST3GAL3 PE=1 SV=1	15	RNLLLALCLFLVLGF	24.927	3.717	
+sp|Q9UNP4|SIAT9_HUMAN Lactosylceramide alpha-2,3-sialyltransferase OS=Homo sapiens GN=ST3GAL5 PE=1 SV=4	8	MRTKAAGCAERRPLQ	37.496	3.717	
+sp|Q9Y2E8|SL9A8_HUMAN Sodium/hydrogen exchanger 8 OS=Homo sapiens GN=SLC9A8 PE=1 SV=4	385	EISFVIWCIVLVLFG	13.715	10.722	
+sp|Q13190|STX5_HUMAN Syntaxin-5 OS=Homo sapiens GN=STX5 PE=1 SV=2	68	TQEFLSACKSLQTRQ	4.277	3.717	
+sp|O43752|STX6_HUMAN Syntaxin-6 OS=Homo sapiens GN=STX6 PE=1 SV=1	236	TSDRRQWCAIAILFA	11.108	10.722	
+sp|Q9NX95|SYBU_HUMAN Syntabulin OS=Homo sapiens GN=SYBU PE=1 SV=2	646	IGALLRGCCVVALHS	6.764	2.412	
+sp|Q9NX95|SYBU_HUMAN Syntabulin OS=Homo sapiens GN=SYBU PE=1 SV=2	647	GALLRGCCVVALHSL	4.108	3.717	
+sp|A6NDD5|SYN1L_HUMAN Synapse differentiation-inducing gene protein 1-like OS=Homo sapiens GN=SYNDIG1L PE=3 SV=1	72	EAWYRPSCLLGRDKV	11.607	10.722	
+sp|A6NDD5|SYN1L_HUMAN Synapse differentiation-inducing gene protein 1-like OS=Homo sapiens GN=SYNDIG1L PE=3 SV=1	171	LTLFSMLCCFWPLGI	12.301	2.412	
+sp|A6NDD5|SYN1L_HUMAN Synapse differentiation-inducing gene protein 1-like OS=Homo sapiens GN=SYNDIG1L PE=3 SV=1	172	TLFSMLCCFWPLGIA	10.821	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	10	TSRGASRCPRDIANV	13.334	10.722	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	2330	VEESLMNCAQNETCE	5.471	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	4496	VSKQVKTCKSAQASL	3.866	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	6126	MEAQLMDCQNMLVEI	5.216	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	8140	NIEHFSECDVQAKIK	4.249	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	8774	MSEEDYSCALSNNFA	13.5	10.722	
+sp|Q12893|TM115_HUMAN Transmembrane protein 115 OS=Homo sapiens GN=TMEM115 PE=1 SV=1	44	SFAVDTGCLAVTPGY	12.223	10.722	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	17	GRILWLACLLPWAPA	25.981	3.717	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	395	EPPSGVRCCCQMCCG	11.63	2.412	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	396	PPSGVRCCCQMCCGP	27.097	2.412	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	397	PSGVRCCCQMCCGPF	5.224	3.717	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	400	VRCCCQMCCGPFLLE	11.102	2.412	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	401	RCCCQMCCGPFLLET	9.157	3.717	
+sp|Q9UK28|TM59L_HUMAN Transmembrane protein 59-like OS=Homo sapiens GN=TMEM59L PE=2 SV=1	272	LPRWILACCLFLSVL	5.093	2.412	
+sp|Q9UK28|TM59L_HUMAN Transmembrane protein 59-like OS=Homo sapiens GN=TMEM59L PE=2 SV=1	273	PRWILACCLFLSVLV	4.448	3.717	
+sp|Q9UK28|TM59L_HUMAN Transmembrane protein 59-like OS=Homo sapiens GN=TMEM59L PE=2 SV=1	286	LVMLWLSCSTLVTAP	4.91	3.717	
+sp|Q9Y2B1|TMEM5_HUMAN UDP-D-xylose:ribitol-5-phosphate beta1,4-xylosyltransferase OS=Homo sapiens GN=TMEM5 PE=1 SV=1	9	RLTRKRLCSFLIALY	12.797	10.722	
+sp|Q9Y2B1|TMEM5_HUMAN UDP-D-xylose:ribitol-5-phosphate beta1,4-xylosyltransferase OS=Homo sapiens GN=TMEM5 PE=1 SV=1	17	SFLIALYCLFSLYAA	25.378	3.717	
+sp|Q5T9L3|WLS_HUMAN Protein wntless homolog OS=Homo sapiens GN=WLS PE=1 SV=2	15	NMSTKKLCIVGGILL	15.53	10.722	
+sp|Q5T9L3|WLS_HUMAN Protein wntless homolog OS=Homo sapiens GN=WLS PE=1 SV=2	355	CLFIFDMCERGVQLT	5.213	3.717	
+sp|Q5T9L3|WLS_HUMAN Protein wntless homolog OS=Homo sapiens GN=WLS PE=1 SV=2	442	LMLITLACAAMTVIF	4.331	3.717	
+sp|O75063|XYLK_HUMAN Glycosaminoglycan xylosylkinase OS=Homo sapiens GN=FAM20B PE=1 SV=1	331	ILAPLYQCCIIRVST	4.555	2.412	
+sp|A8MXE2|YI036_HUMAN Putative UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase LOC100288842 OS=Homo sapiens PE=5 SV=2	6	**MQVTFCRLRTHQW	38.284	3.717	
+sp|A8MXE2|YI036_HUMAN Putative UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase LOC100288842 OS=Homo sapiens PE=5 SV=2	277	ADVFVGICAKFIGLI	4.165	3.717	
+sp|A8MXE2|YI036_HUMAN Putative UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase LOC100288842 OS=Homo sapiens PE=5 SV=2	302	RHIRYNRCCYKFIFT	10.175	2.412	
+sp|A8MXE2|YI036_HUMAN Putative UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase LOC100288842 OS=Homo sapiens PE=5 SV=2	303	HIRYNRCCYKFIFTS	3.74	3.717	
+sp|Q8IUH4|ZDH13_HUMAN Palmitoyltransferase ZDHHC13 OS=Homo sapiens GN=ZDHHC13 PE=1 SV=3	10	GPGLGSQCRNHSHGP	15.847	10.722	
+sp|Q8IUH4|ZDH13_HUMAN Palmitoyltransferase ZDHHC13 OS=Homo sapiens GN=ZDHHC13 PE=1 SV=3	447	LHCHVCNCCVARYDQ	7.896	2.412	
+sp|Q8IUH4|ZDH13_HUMAN Palmitoyltransferase ZDHHC13 OS=Homo sapiens GN=ZDHHC13 PE=1 SV=3	448	HCHVCNCCVARYDQH	3.986	3.717	
+sp|Q8IVQ6|ZDH21_HUMAN Palmitoyltransferase ZDHHC21 OS=Homo sapiens GN=ZDHHC21 PE=2 SV=1	15	VVDPHGWCCMGLIVF	5.622	2.412	
+sp|Q8IVQ6|ZDH21_HUMAN Palmitoyltransferase ZDHHC21 OS=Homo sapiens GN=ZDHHC21 PE=2 SV=1	16	VDPHGWCCMGLIVFV	14.829	10.722	
+sp|Q8IVQ6|ZDH21_HUMAN Palmitoyltransferase ZDHHC21 OS=Homo sapiens GN=ZDHHC21 PE=2 SV=1	218	SIEKMSNCCEDISRP	4.681	2.412	
+sp|Q8IVQ6|ZDH21_HUMAN Palmitoyltransferase ZDHHC21 OS=Homo sapiens GN=ZDHHC21 PE=2 SV=1	219	IEKMSNCCEDISRPR	4.39	3.717	
+sp|Q8IUH5|ZDH17_HUMAN Palmitoyltransferase ZDHHC17 OS=Homo sapiens GN=ZDHHC17 PE=1 SV=2	160	IDGEGCSCIHLAAQF	12.531	10.722	
+sp|Q8IUH5|ZDH17_HUMAN Palmitoyltransferase ZDHHC17 OS=Homo sapiens GN=ZDHHC17 PE=1 SV=2	551	WVAVLLMCQMYQISC	5.598	3.717	
+sp|Q8IUH5|ZDH17_HUMAN Palmitoyltransferase ZDHHC17 OS=Homo sapiens GN=ZDHHC17 PE=1 SV=2	602	IDFFEFRCCGLFRPV	4.015	2.412	
+sp|Q8IUH5|ZDH17_HUMAN Palmitoyltransferase ZDHHC17 OS=Homo sapiens GN=ZDHHC17 PE=1 SV=2	603	DFFEFRCCGLFRPVI	4.185	3.717	
+sp|Q9NYG2|ZDHC3_HUMAN Palmitoyltransferase ZDHHC3 OS=Homo sapiens GN=ZDHHC3 PE=1 SV=2	43	MWFIRDGCGIACAIV	2.922	2.412	
+sp|Q9NYG2|ZDHC3_HUMAN Palmitoyltransferase ZDHHC3 OS=Homo sapiens GN=ZDHHC3 PE=1 SV=2	132	VVYKCPKCCSIKPDR	11.11	2.412	
+sp|Q9NYG2|ZDHC3_HUMAN Palmitoyltransferase ZDHHC3 OS=Homo sapiens GN=ZDHHC3 PE=1 SV=2	133	VYKCPKCCSIKPDRA	4.377	3.717	
+sp|Q9NYG2|ZDHC3_HUMAN Palmitoyltransferase ZDHHC3 OS=Homo sapiens GN=ZDHHC3 PE=1 SV=2	205	FEEDWTKCSSFSPPT	18.342	10.722	
+sp|Q9NXF8|ZDHC7_HUMAN Palmitoyltransferase ZDHHC7 OS=Homo sapiens GN=ZDHHC7 PE=1 SV=2	132	PGEVIYKCPKCCCIK	7.525	2.412	
+sp|Q9NXF8|ZDHC7_HUMAN Palmitoyltransferase ZDHHC7 OS=Homo sapiens GN=ZDHHC7 PE=1 SV=2	135	VIYKCPKCCCIKPER	8.11	2.412	
+sp|Q9NXF8|ZDHC7_HUMAN Palmitoyltransferase ZDHHC7 OS=Homo sapiens GN=ZDHHC7 PE=1 SV=2	136	IYKCPKCCCIKPERA	11.32	2.412	
+sp|Q9NXF8|ZDHC7_HUMAN Palmitoyltransferase ZDHHC7 OS=Homo sapiens GN=ZDHHC7 PE=1 SV=2	137	YKCPKCCCIKPERAH	4.904	3.717	
+sp|O95159|ZFPL1_HUMAN Zinc finger protein-like 1 OS=Homo sapiens GN=ZFPL1 PE=1 SV=2	4	****MGLCKCPKRKV	41.276	3.717	
+sp|O95159|ZFPL1_HUMAN Zinc finger protein-like 1 OS=Homo sapiens GN=ZFPL1 PE=1 SV=2	6	**MGLCKCPKRKVTN	39.326	3.717	
+sp|O95159|ZFPL1_HUMAN Zinc finger protein-like 1 OS=Homo sapiens GN=ZFPL1 PE=1 SV=2	16	RKVTNLFCFEHRVNV	29.721	3.717	
+sp|O95159|ZFPL1_HUMAN Zinc finger protein-like 1 OS=Homo sapiens GN=ZFPL1 PE=1 SV=2	56	YNPNCRLCNIPLASR	3.966	3.717	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	215	LLLVLALCCKVGFHT	6.964	2.412	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	216	LLVLALCCKVGFHTA	6.847	3.717	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	250	LVSVLLLCPWVIVLS	3.806	3.717	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	625	WFIADPLCSLFIAIL	12.472	10.722	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	758	QMESMKYCKDGTYIM	3.862	3.717	

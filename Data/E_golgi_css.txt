@@ -1,0 +1,328 @@
+ID	Position	Peptide	Score	Cutoff	
+sp|P35670|ATP7B_HUMAN Copper-transporting ATPase 2 OS=Homo sapiens GN=ATP7B PE=1 SV=4	157	EGMTCQSCVSSIEGK	12.387	10.722	
+sp|Q99972|MYOC_HUMAN Myocilin OS=Homo sapiens GN=MYOC PE=1 SV=2	8	MRFFCARCCSFGPEM	11.906	2.412	
+sp|Q99972|MYOC_HUMAN Myocilin OS=Homo sapiens GN=MYOC PE=1 SV=2	9	RFFCARCCSFGPEMP	40.658	3.717	
+sp|P36406|TRI23_HUMAN E3 ubiquitin-protein ligase TRIM23 OS=Homo sapiens GN=TRIM23 PE=1 SV=1	202	CQTSPLMCCVCKEYG	5.135	2.412	
+sp|P36406|TRI23_HUMAN E3 ubiquitin-protein ligase TRIM23 OS=Homo sapiens GN=TRIM23 PE=1 SV=1	203	QTSPLMCCVCKEYGK	8.132	3.717	
+sp|P36406|TRI23_HUMAN E3 ubiquitin-protein ligase TRIM23 OS=Homo sapiens GN=TRIM23 PE=1 SV=1	342	VSAACLHCEKTLQQD	3.924	3.717	
+sp|P36406|TRI23_HUMAN E3 ubiquitin-protein ligase TRIM23 OS=Homo sapiens GN=TRIM23 PE=1 SV=1	536	LLSLHKLCCGRSWYI	4.428	2.412	
+sp|P36406|TRI23_HUMAN E3 ubiquitin-protein ligase TRIM23 OS=Homo sapiens GN=TRIM23 PE=1 SV=1	537	LSLHKLCCGRSWYIQ	5.438	3.717	
+sp|Q96CV9|OPTN_HUMAN Optineurin OS=Homo sapiens GN=OPTN PE=1 SV=2	8	MSHQPLSCLTEKEDS	39.719	3.717	
+sp|P04070|PROC_HUMAN Vitamin K-dependent protein C OS=Homo sapiens GN=PROC PE=1 SV=1	105	EHPCASLCCGHGTCI	3.196	2.412	
+sp|P04070|PROC_HUMAN Vitamin K-dependent protein C OS=Homo sapiens GN=PROC PE=1 SV=1	122	IGSFSCDCRSGWEGR	4.17	3.717	
+sp|P04070|PROC_HUMAN Vitamin K-dependent protein C OS=Homo sapiens GN=PROC PE=1 SV=1	162	VGWRRCSCAPGYKLG	3.865	3.717	
+sp|P04070|PROC_HUMAN Vitamin K-dependent protein C OS=Homo sapiens GN=PROC PE=1 SV=1	387	MVSENMLCAGILGDR	5.572	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	10	TSRGASRCPRDIANV	13.334	10.722	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	2330	VEESLMNCAQNETCE	5.471	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	4496	VSKQVKTCKSAQASL	3.866	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	6126	MEAQLMDCQNMLVEI	5.216	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	8140	NIEHFSECDVQAKIK	4.249	3.717	
+sp|Q8NF91|SYNE1_HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4	8774	MSEEDYSCALSNNFA	13.5	10.722	
+sp|Q96PU5|NED4L_HUMAN E3 ubiquitin-protein ligase NEDD4-like OS=Homo sapiens GN=NEDD4L PE=1 SV=2	702	INPNSGLCNEDHLSY	3.752	3.717	
+sp|Q96PU5|NED4L_HUMAN E3 ubiquitin-protein ligase NEDD4-like OS=Homo sapiens GN=NEDD4L PE=1 SV=2	853	NELELLMCGLGDVDV	8.009	3.717	
+sp|Q99996|AKAP9_HUMAN A-kinase anchor protein 9 OS=Homo sapiens GN=AKAP9 PE=1 SV=3	1687	LAGREKLCCELRNSS	7.775	2.412	
+sp|Q99996|AKAP9_HUMAN A-kinase anchor protein 9 OS=Homo sapiens GN=AKAP9 PE=1 SV=3	1688	AGREKLCCELRNSST	6.477	3.717	
+sp|Q5VU43|MYOME_HUMAN Myomegalin OS=Homo sapiens GN=PDE4DIP PE=1 SV=1	1731	TGPLLLGCCETPVVS	9.933	2.412	
+sp|Q5VU43|MYOME_HUMAN Myomegalin OS=Homo sapiens GN=PDE4DIP PE=1 SV=1	1732	GPLLLGCCETPVVSL	5.292	3.717	
+sp|Q92538|GBF1_HUMAN Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 OS=Homo sapiens GN=GBF1 PE=1 SV=2	812	FTERWMNCNGSPFAN	11.225	10.722	
+sp|Q92538|GBF1_HUMAN Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 OS=Homo sapiens GN=GBF1 PE=1 SV=2	1553	LQGIACLCCDARRQV	6.806	2.412	
+sp|Q92538|GBF1_HUMAN Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 OS=Homo sapiens GN=GBF1 PE=1 SV=2	1554	QGIACLCCDARRQVR	4.558	3.717	
+sp|Q9H7X0|NAA60_HUMAN N-alpha-acetyltransferase 60 OS=Homo sapiens GN=NAA60 PE=1 SV=1	19	EVSLRLLCHDDIDTV	23.896	3.717	
+sp|Q9H2G9|GO45_HUMAN Golgin-45 OS=Homo sapiens GN=BLZF1 PE=1 SV=2	389	YENITFNCCNHCRGE	7.385	2.412	
+sp|Q9H2G9|GO45_HUMAN Golgin-45 OS=Homo sapiens GN=BLZF1 PE=1 SV=2	390	ENITFNCCNHCRGEL	6.468	3.717	
+sp|P62820|RAB1A_HUMAN Ras-related protein Rab-1A OS=Homo sapiens GN=RAB1A PE=1 SV=3	204	VKQSGGGCC******	10.13	2.412	
+sp|P62820|RAB1A_HUMAN Ras-related protein Rab-1A OS=Homo sapiens GN=RAB1A PE=1 SV=3	205	KQSGGGCC*******	4.215	3.717	
+sp|Q8TEY7|UBP33_HUMAN Ubiquitin carboxyl-terminal hydrolase 33 OS=Homo sapiens GN=USP33 PE=1 SV=2	64	SLGTCQDCKVQGPNL	4.666	3.717	
+sp|Q8TEY7|UBP33_HUMAN Ubiquitin carboxyl-terminal hydrolase 33 OS=Homo sapiens GN=USP33 PE=1 SV=2	216	LTQFFLDCGGLARTD	4.517	3.717	
+sp|Q8TEY7|UBP33_HUMAN Ubiquitin carboxyl-terminal hydrolase 33 OS=Homo sapiens GN=USP33 PE=1 SV=2	369	DWQKEKMCNKINKVN	4.35	3.717	
+sp|Q8TEY7|UBP33_HUMAN Ubiquitin carboxyl-terminal hydrolase 33 OS=Homo sapiens GN=USP33 PE=1 SV=2	603	LRNGVKFCKVQNFPE	4.118	3.717	
+sp|P20340|RAB6A_HUMAN Ras-related protein Rab-6A OS=Homo sapiens GN=RAB6A PE=1 SV=3	208	VSEGGCSC*******	11.16	10.722	
+sp|P13497|BMP1_HUMAN Bone morphogenetic protein 1 OS=Homo sapiens GN=BMP1 PE=1 SV=2	185	FTYRPCGCCSYVGRR	6.788	2.412	
+sp|P13497|BMP1_HUMAN Bone morphogenetic protein 1 OS=Homo sapiens GN=BMP1 PE=1 SV=2	186	TYRPCGCCSYVGRRG	5.221	3.717	
+sp|P13497|BMP1_HUMAN Bone morphogenetic protein 1 OS=Homo sapiens GN=BMP1 PE=1 SV=2	574	LGSYKCSCDPGYELA	4.62	3.717	
+sp|P13497|BMP1_HUMAN Bone morphogenetic protein 1 OS=Homo sapiens GN=BMP1 PE=1 SV=2	917	EVEEETDCGYDYMEL	11.232	10.722	
+sp|Q5QJU3|ACER2_HUMAN Alkaline ceramidase 2 OS=Homo sapiens GN=ACER2 PE=1 SV=2	103	AVLWVLMCALAMWFP	4.81	3.717	
+sp|O00253|AGRP_HUMAN Agouti-related protein OS=Homo sapiens GN=AGRP PE=1 SV=1	9	LTAAVLSCALLLALP	17.024	10.722	
+sp|O00253|AGRP_HUMAN Agouti-related protein OS=Homo sapiens GN=AGRP PE=1 SV=1	101	CLGQQVPCCDPCATC	9.972	2.412	
+sp|O00253|AGRP_HUMAN Agouti-related protein OS=Homo sapiens GN=AGRP PE=1 SV=1	102	LGQQVPCCDPCATCY	6.016	3.717	
+sp|Q9NP61|ARFG3_HUMAN ADP-ribosylation factor GTPase-activating protein 3 OS=Homo sapiens GN=ARFGAP3 PE=1 SV=1	312	LGMGFGNCRSVISHS	3.814	3.717	
+sp|P61966|AP1S1_HUMAN AP-1 complex subunit sigma-1A OS=Homo sapiens GN=AP1S1 PE=1 SV=1	47	LARKPKMCSFLEWRD	3.752	3.717	
+sp|P61966|AP1S1_HUMAN AP-1 complex subunit sigma-1A OS=Homo sapiens GN=AP1S1 PE=1 SV=1	68	RYASLYFCCAIEGQD	3.716	2.412	
+sp|P61966|AP1S1_HUMAN AP-1 complex subunit sigma-1A OS=Homo sapiens GN=AP1S1 PE=1 SV=1	69	YASLYFCCAIEGQDN	7.228	3.717	
+sp|Q9Y6B7|AP4B1_HUMAN AP-4 complex subunit beta-1 OS=Homo sapiens GN=AP4B1 PE=1 SV=2	18	KELKKALCNPHIQAD	28.702	3.717	
+sp|Q9Y6B7|AP4B1_HUMAN AP-4 complex subunit beta-1 OS=Homo sapiens GN=AP4B1 PE=1 SV=2	73	KLVYLYMCTYAPLKP	5.554	3.717	
+sp|Q96N21|AP4AT_HUMAN AP-4 complex accessory subunit Tepsin OS=Homo sapiens GN=TEPSIN PE=1 SV=1	80	LKILLYLCSHGSSFF	3.793	3.717	
+sp|O43747|AP1G1_HUMAN AP-1 complex subunit gamma-1 OS=Homo sapiens GN=AP1G1 PE=1 SV=5	135	CMGSSEMCRDLAGEV	5.694	3.717	
+sp|O43747|AP1G1_HUMAN AP-1 complex subunit gamma-1 OS=Homo sapiens GN=AP1G1 PE=1 SV=5	202	VVLLTEMCERSPDML	4.009	3.717	
+sp|O43747|AP1G1_HUMAN AP-1 complex subunit gamma-1 OS=Homo sapiens GN=AP1G1 PE=1 SV=5	392	LLYFLDSCEPEFKAD	7.265	3.717	
+sp|O75843|AP1G2_HUMAN AP-1 complex subunit gamma-like 2 OS=Homo sapiens GN=AP1G2 PE=1 SV=1	136	TMGSAEMCRDLAPEV	5.844	3.717	
+sp|O75843|AP1G2_HUMAN AP-1 complex subunit gamma-like 2 OS=Homo sapiens GN=AP1G2 PE=1 SV=1	393	LQAFLESCPPDLRAD	5.657	3.717	
+sp|O43505|B4GA1_HUMAN Beta-1,4-glucuronyltransferase 1 OS=Homo sapiens GN=B4GAT1 PE=1 SV=1	9	QMSYAIRCAFYQLLL	37.394	3.717	
+sp|O43505|B4GA1_HUMAN Beta-1,4-glucuronyltransferase 1 OS=Homo sapiens GN=B4GAT1 PE=1 SV=1	415	YPNSPRRC*******	11.844	10.722	
+sp|Q9Y2G3|AT11B_HUMAN Probable phospholipid-transporting ATPase IF OS=Homo sapiens GN=ATP11B PE=1 SV=2	792	RNCSAVLCCRMAPLQ	12.879	2.412	
+sp|Q9Y2G3|AT11B_HUMAN Probable phospholipid-transporting ATPase IF OS=Homo sapiens GN=ATP11B PE=1 SV=2	793	NCSAVLCCRMAPLQK	10.376	3.717	
+sp|Q9Y2G3|AT11B_HUMAN Probable phospholipid-transporting ATPase IF OS=Homo sapiens GN=ATP11B PE=1 SV=2	888	YFFYKNVCFITPQFL	13.749	10.722	
+sp|Q9Y2G3|AT11B_HUMAN Probable phospholipid-transporting ATPase IF OS=Homo sapiens GN=ATP11B PE=1 SV=2	1121	IKCLDSMCCFPEGEA	5.097	2.412	
+sp|Q9Y2G3|AT11B_HUMAN Probable phospholipid-transporting ATPase IF OS=Homo sapiens GN=ATP11B PE=1 SV=2	1122	KCLDSMCCFPEGEAA	5.126	3.717	
+sp|Q9Y2G3|AT11B_HUMAN Probable phospholipid-transporting ATPase IF OS=Homo sapiens GN=ATP11B PE=1 SV=2	1177	STMDSSTC*******	11.337	10.722	
+sp|P98194|AT2C1_HUMAN Calcium-transporting ATPase type 2C member 1 OS=Homo sapiens GN=ATP2C1 PE=1 SV=3	343	PIVETLGCCNVICSD	10.815	2.412	
+sp|P98194|AT2C1_HUMAN Calcium-transporting ATPase type 2C member 1 OS=Homo sapiens GN=ATP2C1 PE=1 SV=3	344	IVETLGCCNVICSDK	6.512	3.717	
+sp|P98194|AT2C1_HUMAN Calcium-transporting ATPase type 2C member 1 OS=Homo sapiens GN=ATP2C1 PE=1 SV=3	889	LGLTSSVCIVAEIIK	4.407	3.717	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	30	GCCEWLRCCGGGEAR	8.375	2.412	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	31	CCEWLRCCGGGEARP	4.915	3.717	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	90	LYFLLLACSQFVPEM	5.293	3.717	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	757	CQCPAVVCCRCAPTQ	9.383	2.412	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	758	QCPAVVCCRCAPTQK	8.667	3.717	
+sp|O75110|ATP9A_HUMAN Probable phospholipid-transporting ATPase IIA OS=Homo sapiens GN=ATP9A PE=1 SV=3	760	PAVVCCRCAPTQKAQ	4.326	3.717	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	96	CDGWKFLCTSCCGWL	3.088	2.412	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	99	WKFLCTSCCGWLINI	4.771	2.412	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	100	KFLCTSCCGWLINIC	4.509	3.717	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	846	CQCPAVVCCRCSPTQ	8.591	2.412	
+sp|O43861|ATP9B_HUMAN Probable phospholipid-transporting ATPase IIB OS=Homo sapiens GN=ATP9B PE=2 SV=4	847	QCPAVVCCRCSPTQK	8.749	3.717	
+sp|Q96L58|B3GT6_HUMAN Beta-1,3-galactosyltransferase 6 OS=Homo sapiens GN=B3GALT6 PE=1 SV=2	321	WSAPPSQCCQRREGI	10.627	2.412	
+sp|Q8TD16|BICD2_HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1	544	LYHHVCMCNNETPNR	5.173	3.717	
+sp|Q96CA5|BIRC7_HUMAN Baculoviral IAP repeat-containing protein 7 OS=Homo sapiens GN=BIRC7 PE=1 SV=2	9	GPKDSAKCLHRGPQP	16.961	10.722	
+sp|Q96CA5|BIRC7_HUMAN Baculoviral IAP repeat-containing protein 7 OS=Homo sapiens GN=BIRC7 PE=1 SV=2	124	GHQDKVRCFFCYGGL	12.779	10.722	
+sp|Q96CA5|BIRC7_HUMAN Baculoviral IAP repeat-containing protein 7 OS=Homo sapiens GN=BIRC7 PE=1 SV=2	127	DKVRCFFCYGGLQSW	3.942	3.717	
+sp|Q96CA5|BIRC7_HUMAN Baculoviral IAP repeat-containing protein 7 OS=Homo sapiens GN=BIRC7 PE=1 SV=2	275	GHLVCAECAPGLQLC	12.573	10.722	
+sp|Q96CA5|BIRC7_HUMAN Baculoviral IAP repeat-containing protein 7 OS=Homo sapiens GN=BIRC7 PE=1 SV=2	282	CAPGLQLCPICRAPV	5.408	2.412	
+sp|Q9NR09|BIRC6_HUMAN Baculoviral IAP repeat-containing protein 6 OS=Homo sapiens GN=BIRC6 PE=1 SV=2	1517	LEMSGSSCKNVYNSS	4.963	3.717	
+sp|Q9NR09|BIRC6_HUMAN Baculoviral IAP repeat-containing protein 6 OS=Homo sapiens GN=BIRC6 PE=1 SV=2	2123	RVFMLLSCIGQRSLS	3.83	3.717	
+sp|Q9NR09|BIRC6_HUMAN Baculoviral IAP repeat-containing protein 6 OS=Homo sapiens GN=BIRC6 PE=1 SV=2	2355	ADLLLFVCKVLARIA	4.581	3.717	
+sp|Q9NR09|BIRC6_HUMAN Baculoviral IAP repeat-containing protein 6 OS=Homo sapiens GN=BIRC6 PE=1 SV=2	3001	ILSALGLCNSSAMAM	4.099	3.717	
+sp|Q9NR09|BIRC6_HUMAN Baculoviral IAP repeat-containing protein 6 OS=Homo sapiens GN=BIRC6 PE=1 SV=2	3235	HLASLATCPSSVSVE	13.132	10.722	
+sp|Q9NR09|BIRC6_HUMAN Baculoviral IAP repeat-containing protein 6 OS=Homo sapiens GN=BIRC6 PE=1 SV=2	3476	SGRMNYMCPNSSTVE	5.305	3.717	
+sp|Q9NR09|BIRC6_HUMAN Baculoviral IAP repeat-containing protein 6 OS=Homo sapiens GN=BIRC6 PE=1 SV=2	3547	KAVDSLLCSMCHVHP	3.931	3.717	
+sp|Q9NR09|BIRC6_HUMAN Baculoviral IAP repeat-containing protein 6 OS=Homo sapiens GN=BIRC6 PE=1 SV=2	3550	DSLLCSMCHVHPNYF	4.348	3.717	
+sp|Q6ZMB0|B3GN6_HUMAN Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase OS=Homo sapiens GN=B3GNT6 PE=1 SV=2	5	***MAFPCRRSLTAK	39.755	3.717	
+sp|Q6ZMB0|B3GN6_HUMAN Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase OS=Homo sapiens GN=B3GNT6 PE=1 SV=2	315	DDAYMGMCLERAGLA	5.181	3.717	
+sp|Q6ZMB0|B3GN6_HUMAN Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase OS=Homo sapiens GN=B3GNT6 PE=1 SV=2	377	LHSPALSCDRGHRVS	4.33	3.717	
+sp|Q7Z6B0|CCD91_HUMAN Coiled-coil domain-containing protein 91 OS=Homo sapiens GN=CCDC91 PE=1 SV=2	424	SLELFLSCAQKQLSA	4.071	3.717	
+sp|Q08AD1|CAMP2_HUMAN Calmodulin-regulated spectrin-associated protein 2 OS=Homo sapiens GN=CAMSAP2 PE=1 SV=3	304	CQEYLNQCCHFTLED	3.136	2.412	
+sp|Q08AD1|CAMP2_HUMAN Calmodulin-regulated spectrin-associated protein 2 OS=Homo sapiens GN=CAMSAP2 PE=1 SV=3	305	QEYLNQCCHFTLEDM	3.719	3.717	
+sp|Q08AD1|CAMP2_HUMAN Calmodulin-regulated spectrin-associated protein 2 OS=Homo sapiens GN=CAMSAP2 PE=1 SV=3	1160	FDDDQKVCCGFFFKD	4.485	2.412	
+sp|Q08AD1|CAMP2_HUMAN Calmodulin-regulated spectrin-associated protein 2 OS=Homo sapiens GN=CAMSAP2 PE=1 SV=3	1161	DDDQKVCCGFFFKDD	4.369	3.717	
+sp|Q08AD1|CAMP2_HUMAN Calmodulin-regulated spectrin-associated protein 2 OS=Homo sapiens GN=CAMSAP2 PE=1 SV=3	1372	IQNALAHCCLAGKVN	6.356	2.412	
+sp|Q96PB1|CASD1_HUMAN N-acetylneuraminate 9-O-acetyltransferase OS=Homo sapiens GN=CASD1 PE=1 SV=1	49	RYRGNDSCEYLLSSG	11.099	10.722	
+sp|Q96PB1|CASD1_HUMAN N-acetylneuraminate 9-O-acetyltransferase OS=Homo sapiens GN=CASD1 PE=1 SV=1	302	LKPVDGSCCQPRPPV	8.545	2.412	
+sp|Q96PB1|CASD1_HUMAN N-acetylneuraminate 9-O-acetyltransferase OS=Homo sapiens GN=CASD1 PE=1 SV=1	547	QKKANGNCFWHFGLL	13.614	10.722	
+sp|Q96PB1|CASD1_HUMAN N-acetylneuraminate 9-O-acetyltransferase OS=Homo sapiens GN=CASD1 PE=1 SV=1	661	YSIWASSCKNKAECN	4.536	3.717	
+sp|Q96PB1|CASD1_HUMAN N-acetylneuraminate 9-O-acetyltransferase OS=Homo sapiens GN=CASD1 PE=1 SV=1	747	VSTFIFVCVAHEISQ	4.085	3.717	
+sp|Q9Y646|CBPQ_HUMAN Carboxypeptidase Q OS=Homo sapiens GN=CPQ PE=1 SV=1	18	GVHLLSLCSGKAICK	28.477	3.717	
+sp|Q9Y646|CBPQ_HUMAN Carboxypeptidase Q OS=Homo sapiens GN=CPQ PE=1 SV=1	24	LCSGKAICKNGISKR	7.854	3.717	
+sp|Q6UWU4|CF089_HUMAN Bombesin receptor-activated protein C6orf89 OS=Homo sapiens GN=C6orf89 PE=1 SV=1	159	IPANCTGCAQKHLKV	3.808	3.717	
+sp|Q8WUD6|CHPT1_HUMAN Cholinephosphotransferase 1 OS=Homo sapiens GN=CHPT1 PE=1 SV=1	303	LYILMFGCVFAKVSQ	3.998	3.717	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	172	LWYNHEQCCWGSNET	3.691	2.412	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	173	WYNHEQCCWGSNETT	5.213	3.717	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	290	GPLVHVACCCGNIFS	7.195	2.412	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	291	PLVHVACCCGNIFSY	7.371	2.412	
+sp|P51790|CLCN3_HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2	415	IRANIAWCRRRKSTK	3.769	3.717	
+sp|Q96JB2|COG3_HUMAN Conserved oligomeric Golgi complex subunit 3 OS=Homo sapiens GN=COG3 PE=1 SV=3	377	CAFMVHVCQDEHQLY	4.324	3.717	
+sp|Q9Y678|COPG1_HUMAN Coatomer subunit gamma-1 OS=Homo sapiens GN=COPG1 PE=1 SV=1	97	LTIKEMSCIAEDVII	4.042	3.717	
+sp|Q96MW5|COG8_HUMAN Conserved oligomeric Golgi complex subunit 8 OS=Homo sapiens GN=COG8 PE=1 SV=2	452	AFNDLRLCCPVALAQ	8.128	2.412	
+sp|Q96MW5|COG8_HUMAN Conserved oligomeric Golgi complex subunit 8 OS=Homo sapiens GN=COG8 PE=1 SV=2	453	FNDLRLCCPVALAQD	6.652	3.717	
+sp|Q96MW5|COG8_HUMAN Conserved oligomeric Golgi complex subunit 8 OS=Homo sapiens GN=COG8 PE=1 SV=2	499	QELFVQFCTVFLEDL	12.036	10.722	
+sp|Q96MK3|FA20A_HUMAN Pseudokinase FAM20A OS=Homo sapiens GN=FAM20A PE=1 SV=4	314	VSPASNVCFFAKCPY	2.878	2.412	
+sp|Q96MK3|FA20A_HUMAN Pseudokinase FAM20A OS=Homo sapiens GN=FAM20A PE=1 SV=4	452	ILSPLSQCCMIKKKT	6.185	2.412	
+sp|Q96MK3|FA20A_HUMAN Pseudokinase FAM20A OS=Homo sapiens GN=FAM20A PE=1 SV=4	453	LSPLSQCCMIKKKTL	6.588	3.717	
+sp|Q6P4F1|FUT10_HUMAN Alpha-(1,3)-fucosyltransferase 10 OS=Homo sapiens GN=FUT10 PE=2 SV=2	13	RRKLLASCLCVTATV	12.039	10.722	
+sp|Q6P4F1|FUT10_HUMAN Alpha-(1,3)-fucosyltransferase 10 OS=Homo sapiens GN=FUT10 PE=2 SV=2	15	KLLASCLCVTATVFL	25.725	3.717	
+sp|Q14435|GALT3_HUMAN Polypeptide N-acetylgalactosaminyltransferase 3 OS=Homo sapiens GN=GALNT3 PE=1 SV=2	618	EHPSLVSCNPSDPLQ	4.221	3.717	
+sp|O95995|GAS8_HUMAN Growth arrest-specific protein 8 OS=Homo sapiens GN=GAS8 PE=1 SV=1	309	RDKQILLCTKARLKV	3.759	3.717	
+sp|Q10471|GALT2_HUMAN Polypeptide N-acetylgalactosaminyltransferase 2 OS=Homo sapiens GN=GALNT2 PE=1 SV=1	10	RRSRMLLCFAFLWVL	14.992	10.722	
+sp|Q10471|GALT2_HUMAN Polypeptide N-acetylgalactosaminyltransferase 2 OS=Homo sapiens GN=GALNT2 PE=1 SV=1	423	ELRKKLSCKPFKWYL	5.229	3.717	
+sp|Q96PP8|GBP5_HUMAN Guanylate-binding protein 5 OS=Homo sapiens GN=GBP5 PE=1 SV=1	12	IHMSDPMCLIENFNE	33.688	3.717	
+sp|Q9UJY4|GGA2_HUMAN ADP-ribosylation factor-binding protein GGA2 OS=Homo sapiens GN=GGA2 PE=1 SV=3	89	ALTVLEMCMNHCGEK	5.016	3.717	
+sp|Q9UJY4|GGA2_HUMAN ADP-ribosylation factor-binding protein GGA2 OS=Homo sapiens GN=GGA2 PE=1 SV=3	392	GMVSGQNCCEEKRNP	8.784	2.412	
+sp|Q9UJY4|GGA2_HUMAN ADP-ribosylation factor-binding protein GGA2 OS=Homo sapiens GN=GGA2 PE=1 SV=3	393	MVSGQNCCEEKRNPS	5.392	3.717	
+sp|Q8NHV1|GIMA7_HUMAN GTPase IMAP family member 7 OS=Homo sapiens GN=GIMAP7 PE=1 SV=1	160	LKSIVKECGNRCCAF	3.625	2.412	
+sp|Q8NHV1|GIMA7_HUMAN GTPase IMAP family member 7 OS=Homo sapiens GN=GIMAP7 PE=1 SV=1	164	VKECGNRCCAFSNSK	10.953	2.412	
+sp|Q8NHV1|GIMA7_HUMAN GTPase IMAP family member 7 OS=Homo sapiens GN=GIMAP7 PE=1 SV=1	165	KECGNRCCAFSNSKK	5.077	3.717	
+sp|Q8NHV1|GIMA7_HUMAN GTPase IMAP family member 7 OS=Homo sapiens GN=GIMAP7 PE=1 SV=1	295	WHRFLSKCKFYSS**	4.197	3.717	
+sp|Q9H3P7|GCP60_HUMAN Golgi resident protein GCP60 OS=Homo sapiens GN=ACBD3 PE=1 SV=4	168	FVKLLNRCCHLFSTY	5.159	2.412	
+sp|Q9H3P7|GCP60_HUMAN Golgi resident protein GCP60 OS=Homo sapiens GN=ACBD3 PE=1 SV=4	169	VKLLNRCCHLFSTYV	3.835	3.717	
+sp|O14976|GAK_HUMAN Cyclin-G-associated kinase OS=Homo sapiens GN=GAK PE=1 SV=2	520	AASAVAVCSFLCFCR	3.553	2.412	
+sp|O14976|GAK_HUMAN Cyclin-G-associated kinase OS=Homo sapiens GN=GAK PE=1 SV=2	526	VCSFLCFCRLFSTAE	5.146	3.717	
+sp|O14976|GAK_HUMAN Cyclin-G-associated kinase OS=Homo sapiens GN=GAK PE=1 SV=2	560	KRYIEYMCDMVAEEP	4.578	3.717	
+sp|Q9H0R5|GBP3_HUMAN Guanylate-binding protein 3 OS=Homo sapiens GN=GBP3 PE=1 SV=3	12	IHMTGPMCLIENTNG	34.571	3.717	
+sp|Q5T7V8|GORAB_HUMAN RAB6-interacting golgin OS=Homo sapiens GN=GORAB PE=1 SV=1	20	RFGHFWGCRWPGPMA	18.102	3.717	
+sp|Q5T7V8|GORAB_HUMAN RAB6-interacting golgin OS=Homo sapiens GN=GORAB PE=1 SV=1	156	ILPPKPDCKLEKKKV	4.066	3.717	
+sp|Q5VW38|GP107_HUMAN Protein GPR107 OS=Homo sapiens GN=GPR107 PE=1 SV=1	411	LFLVDLLCCGAILFP	8.805	2.412	
+sp|Q8NBJ4|GOLM1_HUMAN Golgi membrane protein 1 OS=Homo sapiens GN=GOLM1 PE=1 SV=1	24	VLAALVACIIVLGFN	5.919	3.717	
+sp|A4D1B5|GSAP_HUMAN Gamma-secretase-activating protein OS=Homo sapiens GN=GSAP PE=1 SV=2	398	SGSLVLDCCSGKLYR	8.226	2.412	
+sp|A4D1B5|GSAP_HUMAN Gamma-secretase-activating protein OS=Homo sapiens GN=GSAP PE=1 SV=2	399	GSLVLDCCSGKLYRA	5.061	3.717	
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2	4	****MAACGRVRRMF	14.12	10.722	
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2	404	RLSYLLMCLESAVHR	4.882	3.717	
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2	767	KEDVLKLCPNIKKKV	3.837	3.717	
+sp|Q92896|GSLG1_HUMAN Golgi apparatus protein 1 OS=Homo sapiens GN=GLG1 PE=1 SV=2	892	KQMIKRFCPEADSKT	4.135	3.717	
+sp|P31150|GDIA_HUMAN Rab GDP dissociation inhibitor alpha OS=Homo sapiens GN=GDI1 PE=1 SV=2	17	LGTGLTECILSGIMS	17.12	10.722	
+sp|Q8NCW6|GLT11_HUMAN Polypeptide N-acetylgalactosaminyltransferase 11 OS=Homo sapiens GN=GALNT11 PE=1 SV=2	10	SVTVRYFCYGCLFTS	33.958	3.717	
+sp|Q8NCW6|GLT11_HUMAN Polypeptide N-acetylgalactosaminyltransferase 11 OS=Homo sapiens GN=GALNT11 PE=1 SV=2	13	VRYFCYGCLFTSATW	28.937	3.717	
+sp|Q8NCW6|GLT11_HUMAN Polypeptide N-acetylgalactosaminyltransferase 11 OS=Homo sapiens GN=GALNT11 PE=1 SV=2	441	ELRKKLGCKSFKWYL	4.623	3.717	
+sp|A8MQT2|GOG8B_HUMAN Golgin subfamily A member 8B OS=Homo sapiens GN=GOLGA8B PE=2 SV=2	588	HPGLGSNCCVPCFCW	9.121	2.412	
+sp|A8MQT2|GOG8B_HUMAN Golgin subfamily A member 8B OS=Homo sapiens GN=GOLGA8B PE=2 SV=2	589	PGLGSNCCVPCFCWA	5.767	3.717	
+sp|A8MQT2|GOG8B_HUMAN Golgin subfamily A member 8B OS=Homo sapiens GN=GOLGA8B PE=2 SV=2	592	GSNCCVPCFCWAWLP	2.796	2.412	
+sp|Q9BQQ3|GORS1_HUMAN Golgi reassembly-stacking protein 1 OS=Homo sapiens GN=GORASP1 PE=1 SV=3	173	YNSKSDSCREVTVTP	11.962	10.722	
+sp|A8MVW5|HECA2_HUMAN HEPACAM family member 2 OS=Homo sapiens GN=HEPACAM2 PE=1 SV=1	316	KTMDYVCCAYNNITG	5.808	3.717	
+sp|A8MVW5|HECA2_HUMAN HEPACAM family member 2 OS=Homo sapiens GN=HEPACAM2 PE=1 SV=1	367	LFLIISMCLLFLWKK	3.832	3.717	
+sp|P32019|I5P2_HUMAN Type II inositol 1,4,5-trisphosphate 5-phosphatase OS=Homo sapiens GN=INPP5B PE=1 SV=4	783	SGNYLPSCFGSPIHT	12.521	10.722	
+sp|Q8IV36|HID1_HUMAN Protein HID1 OS=Homo sapiens GN=HID1 PE=1 SV=1	70	PSNLATLCYKAVEKL	14.218	10.722	
+sp|Q8IV36|HID1_HUMAN Protein HID1 OS=Homo sapiens GN=HID1 PE=1 SV=1	214	LLKLLLTCFSEAMYL	4.002	3.717	
+sp|Q8NFY9|KBTB8_HUMAN Kelch repeat and BTB domain-containing protein 8 OS=Homo sapiens GN=KBTBD8 PE=1 SV=2	306	GKKQTVPCLDIVTGR	10.936	10.722	
+sp|Q8NFY9|KBTB8_HUMAN Kelch repeat and BTB domain-containing protein 8 OS=Homo sapiens GN=KBTBD8 PE=1 SV=2	318	TGRVFKLCKPPNDLR	3.8	3.717	
+sp|Q8NFY9|KBTB8_HUMAN Kelch repeat and BTB domain-containing protein 8 OS=Homo sapiens GN=KBTBD8 PE=1 SV=2	388	IGCKLVYCCGKMYAI	9.612	2.412	
+sp|Q8NFY9|KBTB8_HUMAN Kelch repeat and BTB domain-containing protein 8 OS=Homo sapiens GN=KBTBD8 PE=1 SV=2	389	GCKLVYCCGKMYAIG	4.95	3.717	
+sp|Q8TBQ9|KISHA_HUMAN Protein kish-A OS=Homo sapiens GN=TMEM167A PE=1 SV=1	19	TVILLLICTCAYIRS	22.591	3.717	
+sp|Q8TBQ9|KISHA_HUMAN Protein kish-A OS=Homo sapiens GN=TMEM167A PE=1 SV=1	21	ILLLICTCAYIRSLA	14.804	3.717	
+sp|Q8TBQ9|KISHA_HUMAN Protein kish-A OS=Homo sapiens GN=TMEM167A PE=1 SV=1	60	KSPYVAVCCIVMAFS	9.641	2.412	
+sp|Q9NRX6|KISHB_HUMAN Protein kish-B OS=Homo sapiens GN=TMEM167B PE=3 SV=1	19	VFGLLFVCTCAYFKK	24.71	3.717	
+sp|Q9NRX6|KISHB_HUMAN Protein kish-B OS=Homo sapiens GN=TMEM167B PE=3 SV=1	21	GLLFVCTCAYFKKVP	8.935	3.717	
+sp|O95461|LARG1_HUMAN LARGE xylosyl- and glucuronyltransferase 1 OS=Homo sapiens GN=LARGE1 PE=1 SV=1	5	***MLGICRGRRKFL	40.89	3.717	
+sp|Q8N3Y3|LARG2_HUMAN LARGE xylosyl- and glucuronyltransferase 2 OS=Homo sapiens GN=LARGE2 PE=1 SV=2	450	LQMLEALCRHWPGPM	4.245	3.717	
+sp|Q5SRI9|MANEA_HUMAN Glycoprotein endo-alpha-1,2-mannosidase OS=Homo sapiens GN=MANEA PE=1 SV=1	9	AKFRRRTCIILALFI	11.332	10.722	
+sp|Q9P2E8|MARH4_HUMAN E3 ubiquitin-protein ligase MARCH4 OS=Homo sapiens GN=MARCH4 PE=2 SV=2	6	**MLMPLCGLLWWWW	39.743	3.717	
+sp|Q9P2E8|MARH4_HUMAN E3 ubiquitin-protein ligase MARCH4 OS=Homo sapiens GN=MARCH4 PE=2 SV=2	14	GLLWWWWCCCSGWYC	10.1	2.412	
+sp|Q9P2E8|MARH4_HUMAN E3 ubiquitin-protein ligase MARCH4 OS=Homo sapiens GN=MARCH4 PE=2 SV=2	15	LLWWWWCCCSGWYCY	8.405	2.412	
+sp|Q9P2E8|MARH4_HUMAN E3 ubiquitin-protein ligase MARCH4 OS=Homo sapiens GN=MARCH4 PE=2 SV=2	16	LWWWWCCCSGWYCYG	38.03	3.717	
+sp|Q8NI22|MCFD2_HUMAN Multiple coagulation factor deficiency protein 2 OS=Homo sapiens GN=MCFD2 PE=1 SV=1	13	LLRTPFLCGLLWAFC	21.543	3.717	
+sp|Q8NI22|MCFD2_HUMAN Multiple coagulation factor deficiency protein 2 OS=Homo sapiens GN=MCFD2 PE=1 SV=1	20	CGLLWAFCAPGARAE	10.335	3.717	
+sp|O75081|MTG16_HUMAN Protein CBFA2T3 OS=Homo sapiens GN=CBFA2T3 PE=1 SV=2	250	LQRELLHCARLAKQT	4.082	3.717	
+sp|O75081|MTG16_HUMAN Protein CBFA2T3 OS=Homo sapiens GN=CBFA2T3 PE=1 SV=2	576	GCNAARYCGSFCQHR	3.937	2.412	
+sp|Q9UK23|NAGPA_HUMAN N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase OS=Homo sapiens GN=NAGPA PE=1 SV=2	408	GCQRPCKCEHHCPCD	4.39	2.412	
+sp|Q96P71|NECA3_HUMAN N-terminal EF-hand calcium-binding protein 3 OS=Homo sapiens GN=NECAB3 PE=1 SV=2	3	*****MACAGLLTVC	16.03	10.722	
+sp|Q96P71|NECA3_HUMAN N-terminal EF-hand calcium-binding protein 3 OS=Homo sapiens GN=NECAB3 PE=1 SV=2	10	CAGLLTVCLLRPPAP	36.149	3.717	
+sp|Q9BT67|NFIP1_HUMAN NEDD4 family-interacting protein 1 OS=Homo sapiens GN=NDFIP1 PE=1 SV=1	15	LAAVEPACGSRYQQL	22.892	3.717	
+sp|Q9NV92|NFIP2_HUMAN NEDD4 family-interacting protein 2 OS=Homo sapiens GN=NDFIP2 PE=1 SV=2	10	RRRSQRVCASGPSML	16	10.722	
+sp|Q9NV92|NFIP2_HUMAN NEDD4 family-interacting protein 2 OS=Homo sapiens GN=NDFIP2 PE=1 SV=2	266	AGRYGAICGFGLSLI	12.916	10.722	
+sp|Q71RS6|NCKX5_HUMAN Sodium/potassium/calcium exchanger 5 OS=Homo sapiens GN=SLC24A5 PE=1 SV=1	228	NQYIIKKCSPCCACL	4.293	2.412	
+sp|Q71RS6|NCKX5_HUMAN Sodium/potassium/calcium exchanger 5 OS=Homo sapiens GN=SLC24A5 PE=1 SV=1	231	IIKKCSPCCACLAKA	7.985	2.412	
+sp|Q71RS6|NCKX5_HUMAN Sodium/potassium/calcium exchanger 5 OS=Homo sapiens GN=SLC24A5 PE=1 SV=1	232	IKKCSPCCACLAKAM	6.089	3.717	
+sp|Q71RS6|NCKX5_HUMAN Sodium/potassium/calcium exchanger 5 OS=Homo sapiens GN=SLC24A5 PE=1 SV=1	498	GNNKIRGCGG*****	12.671	10.722	
+sp|P52848|NDST1_HUMAN Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1 OS=Homo sapiens GN=NDST1 PE=1 SV=1	6	**MPALACLRRLCRH	37.141	3.717	
+sp|P52848|NDST1_HUMAN Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1 OS=Homo sapiens GN=NDST1 PE=1 SV=1	11	LACLRRLCRHVSPQA	35.124	3.717	
+sp|Q9BZQ4|NMNA2_HUMAN Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 2 OS=Homo sapiens GN=NMNAT2 PE=1 SV=1	14	THVILLACGSFNPIT	19.363	3.717	
+sp|Q9BZQ4|NMNA2_HUMAN Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 2 OS=Homo sapiens GN=NMNAT2 PE=1 SV=1	164	GESLSRICCVRPPVE	15.822	2.412	
+sp|Q9BZQ4|NMNA2_HUMAN Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 2 OS=Homo sapiens GN=NMNAT2 PE=1 SV=1	165	ESLSRICCVRPPVER	5.274	3.717	
+sp|P80303|NUCB2_HUMAN Nucleobindin-2 OS=Homo sapiens GN=NUCB2 PE=1 SV=2	11	RTILLQYCFLLITCL	32.766	3.717	
+sp|P80303|NUCB2_HUMAN Nucleobindin-2 OS=Homo sapiens GN=NUCB2 PE=1 SV=2	17	YCFLLITCLLTALEA	27.677	3.717	
+sp|Q6TCH7|PAQR3_HUMAN Progestin and adipoQ receptor family member 3 OS=Homo sapiens GN=PAQR3 PE=1 SV=2	114	ICSICLFCFQVCMLC	6.639	2.412	
+sp|Q6TCH7|PAQR3_HUMAN Progestin and adipoQ receptor family member 3 OS=Homo sapiens GN=PAQR3 PE=1 SV=2	304	QYRHSKPCPDYVSHL	12.664	10.722	
+sp|O75147|OBSL1_HUMAN Obscurin-like protein 1 OS=Homo sapiens GN=OBSL1 PE=1 SV=4	1011	LECVVLMCELSREDA	4.88	3.717	
+sp|O75147|OBSL1_HUMAN Obscurin-like protein 1 OS=Homo sapiens GN=OBSL1 PE=1 SV=4	1195	GEPVVLSCELSRAGA	4.838	3.717	
+sp|O75147|OBSL1_HUMAN Obscurin-like protein 1 OS=Homo sapiens GN=OBSL1 PE=1 SV=4	1811	EALPLQMCRHPPREK	4.075	3.717	
+sp|O75147|OBSL1_HUMAN Obscurin-like protein 1 OS=Homo sapiens GN=OBSL1 PE=1 SV=4	1879	PEDQGTYCCQAGQDS	3.588	2.412	
+sp|O75147|OBSL1_HUMAN Obscurin-like protein 1 OS=Homo sapiens GN=OBSL1 PE=1 SV=4	1880	EDQGTYCCQAGQDST	5.979	3.717	
+sp|Q8IZE3|PACE1_HUMAN Protein-associating with the carboxyl-terminal domain of ezrin OS=Homo sapiens GN=SCYL3 PE=1 SV=3	327	HAQGETPCLLSPALF	13.328	10.722	
+sp|Q9HB20|PKHA3_HUMAN Pleckstrin homology domain-containing family A member 3 OS=Homo sapiens GN=PLEKHA3 PE=1 SV=2	216	SVSHPGSCSSERSSH	5.092	3.717	
+sp|Q00LT1|PRCD_HUMAN Progressive rod-cone degeneration protein OS=Homo sapiens GN=PRCD PE=1 SV=1	2	******MCTTLFLLS	14.748	10.722	
+sp|Q8TE99|PXYP1_HUMAN 2-phosphoxylose phosphatase 1 OS=Homo sapiens GN=PXYLP1 PE=1 SV=1	447	KRSPKPMCPLENLVR	4.213	3.717	
+sp|Q13636|RAB31_HUMAN Ras-related protein Rab-31 OS=Homo sapiens GN=RAB31 PE=1 SV=1	9	AIRELKVCLLGDTGV	15.604	10.722	
+sp|Q13636|RAB31_HUMAN Ras-related protein Rab-31 OS=Homo sapiens GN=RAB31 PE=1 SV=1	23	VGKSSIVCRFVQDHF	4.499	3.717	
+sp|Q13636|RAB31_HUMAN Ras-related protein Rab-31 OS=Homo sapiens GN=RAB31 PE=1 SV=1	193	TMQASRRCC******	12.38	2.412	
+sp|Q13636|RAB31_HUMAN Ras-related protein Rab-31 OS=Homo sapiens GN=RAB31 PE=1 SV=1	194	MQASRRCC*******	5.042	3.717	
+sp|P61106|RAB14_HUMAN Ras-related protein Rab-14 OS=Homo sapiens GN=RAB14 PE=1 SV=4	213	PQPQREGCGC*****	13.056	10.722	
+sp|Q5R372|RBG1L_HUMAN Rab GTPase-activating protein 1-like OS=Homo sapiens GN=RABGAP1L PE=1 SV=1	722	HIIDLLLCEGLNIIF	4.475	3.717	
+sp|Q15771|RAB30_HUMAN Ras-related protein Rab-30 OS=Homo sapiens GN=RAB30 PE=1 SV=2	199	KSISYLTCCNFN***	7.55	2.412	
+sp|Q15771|RAB30_HUMAN Ras-related protein Rab-30 OS=Homo sapiens GN=RAB30 PE=1 SV=2	200	SISYLTCCNFN****	6.405	3.717	
+sp|Q9NX57|RAB20_HUMAN Ras-related protein Rab-20 OS=Homo sapiens GN=RAB20 PE=1 SV=1	179	VPAAEQMCFETSAKT	4.268	3.717	
+sp|Q9NX57|RAB20_HUMAN Ras-related protein Rab-20 OS=Homo sapiens GN=RAB20 PE=1 SV=1	232	PKRTRSGCCA*****	10.35	2.412	
+sp|Q9NX57|RAB20_HUMAN Ras-related protein Rab-20 OS=Homo sapiens GN=RAB20 PE=1 SV=1	233	KRTRSGCCA******	8.353	3.717	
+sp|Q9H082|RB33B_HUMAN Ras-related protein Rab-33B OS=Homo sapiens GN=RAB33B PE=1 SV=1	227	EPKPAMTCWC*****	15.567	10.722	
+sp|Q5U651|RAIN_HUMAN Ras-interacting protein 1 OS=Homo sapiens GN=RASIP1 PE=1 SV=1	523	WAFSCRLCGRGLQER	4.586	3.717	
+sp|Q9ULW5|RAB26_HUMAN Ras-related protein Rab-26 OS=Homo sapiens GN=RAB26 PE=1 SV=3	253	REGRGASCCRP****	10.328	2.412	
+sp|Q9ULW5|RAB26_HUMAN Ras-related protein Rab-26 OS=Homo sapiens GN=RAB26 PE=1 SV=3	254	EGRGASCCRP*****	4.981	3.717	
+sp|Q86YS6|RAB43_HUMAN Ras-related protein Rab-43 OS=Homo sapiens GN=RAB43 PE=1 SV=1	210	DIGEGWGCGC*****	15.731	10.722	
+sp|Q86YS6|RAB43_HUMAN Ras-related protein Rab-43 OS=Homo sapiens GN=RAB43 PE=1 SV=1	212	GEGWGCGC*******	13.84	10.722	
+sp|Q9NRW1|RAB6B_HUMAN Ras-related protein Rab-6B OS=Homo sapiens GN=RAB6B PE=1 SV=1	206	PPASEGGCSC*****	12.584	10.722	
+sp|Q9NRW1|RAB6B_HUMAN Ras-related protein Rab-6B OS=Homo sapiens GN=RAB6B PE=1 SV=1	208	ASEGGCSC*******	11.703	10.722	
+sp|O00559|RCAS1_HUMAN Receptor-binding cancer antigen expressed on SiSo cells OS=Homo sapiens GN=EBAG9 PE=1 SV=1	12	QFRLFKFCTCLATVF	31.855	3.717	
+sp|O00559|RCAS1_HUMAN Receptor-binding cancer antigen expressed on SiSo cells OS=Homo sapiens GN=EBAG9 PE=1 SV=1	14	RLFKFCTCLATVFSF	12.516	10.722	
+sp|O00559|RCAS1_HUMAN Receptor-binding cancer antigen expressed on SiSo cells OS=Homo sapiens GN=EBAG9 PE=1 SV=1	27	SFLKRLICRSGRGRK	4.13	3.717	
+sp|Q96AH8|RAB7B_HUMAN Ras-related protein Rab-7b OS=Homo sapiens GN=RAB7B PE=2 SV=1	198	PDQSRSRCC******	9.821	2.412	
+sp|Q96AH8|RAB7B_HUMAN Ras-related protein Rab-7b OS=Homo sapiens GN=RAB7B PE=2 SV=1	199	DQSRSRCC*******	11.618	10.722	
+sp|Q6ZS17|RIPR1_HUMAN Rho family-interacting cell polarization regulator 1 OS=Homo sapiens GN=RIPOR1 PE=1 SV=1	984	QCTERLSCFLCPVER	10.828	10.722	
+sp|O94955|RHBT3_HUMAN Rho-related BTB domain-containing protein 3 OS=Homo sapiens GN=RHOBTB3 PE=1 SV=2	143	RQNEELPCTCPLCTS	14.891	10.722	
+sp|O94955|RHBT3_HUMAN Rho-related BTB domain-containing protein 3 OS=Homo sapiens GN=RHOBTB3 PE=1 SV=2	250	DLNNLLFCCQCVDVV	3.739	2.412	
+sp|O94955|RHBT3_HUMAN Rho-related BTB domain-containing protein 3 OS=Homo sapiens GN=RHOBTB3 PE=1 SV=2	251	LNNLLFCCQCVDVVF	5.787	3.717	
+sp|O94955|RHBT3_HUMAN Rho-related BTB domain-containing protein 3 OS=Homo sapiens GN=RHOBTB3 PE=1 SV=2	483	EYLYTDSCCPAGIFQ	5.377	2.412	
+sp|O94955|RHBT3_HUMAN Rho-related BTB domain-containing protein 3 OS=Homo sapiens GN=RHOBTB3 PE=1 SV=2	606	KYIHSRKCRCLVM**	15.568	10.722	
+sp|O94955|RHBT3_HUMAN Rho-related BTB domain-containing protein 3 OS=Homo sapiens GN=RHOBTB3 PE=1 SV=2	608	IHSRKCRCLVM****	11.684	10.722	
+sp|Q9H9V4|RN122_HUMAN RING finger protein 122 OS=Homo sapiens GN=RNF122 PE=2 SV=2	7	*MHPFQWCNGCFCGL	2.952	2.412	
+sp|Q9H9V4|RN122_HUMAN RING finger protein 122 OS=Homo sapiens GN=RNF122 PE=2 SV=2	10	PFQWCNGCFCGLGLV	19.997	10.722	
+sp|Q9H9V4|RN122_HUMAN RING finger protein 122 OS=Homo sapiens GN=RNF122 PE=2 SV=2	12	QWCNGCFCGLGLVST	13.404	10.722	
+sp|Q9H9V4|RN122_HUMAN RING finger protein 122 OS=Homo sapiens GN=RNF122 PE=2 SV=2	23	LVSTNKSCSMPPISF	7.762	3.717	
+sp|Q9H9V4|RN122_HUMAN RING finger protein 122 OS=Homo sapiens GN=RNF122 PE=2 SV=2	56	FMLSLIFCCYFISKL	12.931	2.412	
+sp|Q9H9V4|RN122_HUMAN RING finger protein 122 OS=Homo sapiens GN=RNF122 PE=2 SV=2	57	MLSLIFCCYFISKLR	5.252	3.717	
+sp|Q9H9V4|RN122_HUMAN RING finger protein 122 OS=Homo sapiens GN=RNF122 PE=2 SV=2	133	VRCVCPMCNKPIASP	6.838	3.717	
+sp|Q9Y225|RNF24_HUMAN RING finger protein 24 OS=Homo sapiens GN=RNF24 PE=1 SV=1	43	FILSLLFCCYLIRLR	16.006	2.412	
+sp|Q9Y225|RNF24_HUMAN RING finger protein 24 OS=Homo sapiens GN=RNF24 PE=1 SV=1	44	ILSLLFCCYLIRLRH	5.571	3.717	
+sp|Q9Y225|RNF24_HUMAN RING finger protein 24 OS=Homo sapiens GN=RNF24 PE=1 SV=1	96	DELGICPCKHAFHRK	3.861	3.717	
+sp|Q9Y225|RNF24_HUMAN RING finger protein 24 OS=Homo sapiens GN=RNF24 PE=1 SV=1	118	VRKVCPLCNMPVLQL	3.896	3.717	
+sp|Q96EQ8|RN125_HUMAN E3 ubiquitin-protein ligase RNF125 OS=Homo sapiens GN=RNF125 PE=1 SV=4	52	HQPVRTRCGHVFCRS	2.74	2.412	
+sp|Q96EQ8|RN125_HUMAN E3 ubiquitin-protein ligase RNF125 OS=Homo sapiens GN=RNF125 PE=1 SV=4	72	LKNNKWTCPYCRAYL	2.714	2.412	
+sp|Q92503|S14L1_HUMAN SEC14-like protein 1 OS=Homo sapiens GN=SEC14L1 PE=1 SV=2	112	RVIINEHCCYTVHPE	4.576	2.412	
+sp|Q8TB61|S35B2_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 1 OS=Homo sapiens GN=SLC35B2 PE=1 SV=1	174	AGLSCVLCKQPRHGA	8.823	3.717	
+sp|Q8TB61|S35B2_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 1 OS=Homo sapiens GN=SLC35B2 PE=1 SV=1	350	LLSICSACGQLFIFY	3.796	3.717	
+sp|Q96H72|S39AD_HUMAN Zinc transporter ZIP13 OS=Homo sapiens GN=SLC39A13 PE=1 SV=3	4	****MPGCPCPGCGM	6.548	2.412	
+sp|Q96H72|S39AD_HUMAN Zinc transporter ZIP13 OS=Homo sapiens GN=SLC39A13 PE=1 SV=3	6	**MPGCPCPGCGMAG	7.641	2.412	
+sp|Q96H72|S39AD_HUMAN Zinc transporter ZIP13 OS=Homo sapiens GN=SLC39A13 PE=1 SV=3	9	PGCPCPGCGMAGPRL	14.691	10.722	
+sp|O15126|SCAM1_HUMAN Secretory carrier-associated membrane protein 1 OS=Homo sapiens GN=SCAMP1 PE=1 SV=2	197	WFLLFTPCSFVCWYR	4.013	2.412	
+sp|O15126|SCAM1_HUMAN Secretory carrier-associated membrane protein 1 OS=Homo sapiens GN=SCAMP1 PE=1 SV=2	201	FTPCSFVCWYRPLYG	2.419	2.412	
+sp|Q9H1N7|S35B3_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 2 OS=Homo sapiens GN=SLC35B3 PE=1 SV=1	177	PTQVIFKCCKLIPVM	7.117	2.412	
+sp|Q9H1N7|S35B3_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 2 OS=Homo sapiens GN=SLC35B3 PE=1 SV=1	178	TQVIFKCCKLIPVML	5.761	3.717	
+sp|Q9H1N7|S35B3_HUMAN Adenosine 3'-phospho 5'-phosphosulfate transporter 2 OS=Homo sapiens GN=SLC35B3 PE=1 SV=1	237	VLISLALCADAVIGN	4.186	3.717	
+sp|Q969S0|S35B4_HUMAN UDP-xylose and UDP-N-acetylglucosamine transporter OS=Homo sapiens GN=SLC35B4 PE=1 SV=1	14	VGLVFAGCCSNVIFL	6.816	2.412	
+sp|Q969S0|S35B4_HUMAN UDP-xylose and UDP-N-acetylglucosamine transporter OS=Homo sapiens GN=SLC35B4 PE=1 SV=1	15	GLVFAGCCSNVIFLE	31.078	3.717	
+sp|Q969S0|S35B4_HUMAN UDP-xylose and UDP-N-acetylglucosamine transporter OS=Homo sapiens GN=SLC35B4 PE=1 SV=1	31	LARKHPGCGNIVTFA	13.398	10.722	
+sp|Q96KG9|SCYL1_HUMAN N-terminal kinase-like protein OS=Homo sapiens GN=SCYL1 PE=1 SV=1	88	DGLETEKCLHVVTEA	14.546	10.722	
+sp|Q9Y2E8|SL9A8_HUMAN Sodium/hydrogen exchanger 8 OS=Homo sapiens GN=SLC9A8 PE=1 SV=4	385	EISFVIWCIVLVLFG	13.715	10.722	
+sp|P10124|SRGN_HUMAN Serglycin OS=Homo sapiens GN=SRGN PE=1 SV=3	8	MMQKLLKCSRLVLAL	16.983	10.722	
+sp|Q9NZ72|STMN3_HUMAN Stathmin-3 OS=Homo sapiens GN=STMN3 PE=1 SV=3	22	LSVLSLICSCFYTQP	11.048	3.717	
+sp|Q9NZ72|STMN3_HUMAN Stathmin-3 OS=Homo sapiens GN=STMN3 PE=1 SV=3	24	VLSLICSCFYTQPHP	8.377	3.717	
+sp|Q8NBN3|TM87A_HUMAN Transmembrane protein 87A OS=Homo sapiens GN=TMEM87A PE=1 SV=3	89	WYLKSADCYNEIYNF	4.374	3.717	
+sp|Q8NBN3|TM87A_HUMAN Transmembrane protein 87A OS=Homo sapiens GN=TMEM87A PE=1 SV=3	234	MIFFMVMCIVYVLFG	3.767	3.717	
+sp|Q92544|TM9S4_HUMAN Transmembrane 9 superfamily member 4 OS=Homo sapiens GN=TM9SF4 PE=1 SV=2	19	LLLFSLMCETSAFYV	28.025	3.717	
+sp|Q92544|TM9S4_HUMAN Transmembrane 9 superfamily member 4 OS=Homo sapiens GN=TM9SF4 PE=1 SV=2	383	GALMTTACFLFMFMG	11.14	10.722	
+sp|Q9Y2B1|TMEM5_HUMAN UDP-D-xylose:ribitol-5-phosphate beta1,4-xylosyltransferase OS=Homo sapiens GN=TMEM5 PE=1 SV=1	9	RLTRKRLCSFLIALY	12.797	10.722	
+sp|Q9Y2B1|TMEM5_HUMAN UDP-D-xylose:ribitol-5-phosphate beta1,4-xylosyltransferase OS=Homo sapiens GN=TMEM5 PE=1 SV=1	17	SFLIALYCLFSLYAA	25.378	3.717	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	17	GRILWLACLLPWAPA	25.981	3.717	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	395	EPPSGVRCCCQMCCG	11.63	2.412	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	396	PPSGVRCCCQMCCGP	27.097	2.412	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	397	PSGVRCCCQMCCGPF	5.224	3.717	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	400	VRCCCQMCCGPFLLE	11.102	2.412	
+sp|Q8N3G9|TM130_HUMAN Transmembrane protein 130 OS=Homo sapiens GN=TMEM130 PE=2 SV=1	401	RCCCQMCCGPFLLET	9.157	3.717	
+sp|Q7Z392|TPC11_HUMAN Trafficking protein particle complex subunit 11 OS=Homo sapiens GN=TRAPPC11 PE=1 SV=2	13	WDFPVELCCRPMAFV	2.965	2.412	
+sp|Q7Z392|TPC11_HUMAN Trafficking protein particle complex subunit 11 OS=Homo sapiens GN=TRAPPC11 PE=1 SV=2	14	DFPVELCCRPMAFVT	33.087	3.717	
+sp|Q7Z392|TPC11_HUMAN Trafficking protein particle complex subunit 11 OS=Homo sapiens GN=TRAPPC11 PE=1 SV=2	41	RAVWDAFCANRRADR	3.986	3.717	
+sp|Q7Z392|TPC11_HUMAN Trafficking protein particle complex subunit 11 OS=Homo sapiens GN=TRAPPC11 PE=1 SV=2	481	KLLDYVMCDYRSEGW	4.788	3.717	
+sp|Q15643|TRIPB_HUMAN Thyroid receptor-interacting protein 11 OS=Homo sapiens GN=TRIP11 PE=1 SV=3	696	VRHQLEECLAGNNQL	10.81	10.722	
+sp|Q12893|TM115_HUMAN Transmembrane protein 115 OS=Homo sapiens GN=TMEM115 PE=1 SV=1	44	SFAVDTGCLAVTPGY	12.223	10.722	
+sp|Q9UL33|TPC2L_HUMAN Trafficking protein particle complex subunit 2-like protein OS=Homo sapiens GN=TRAPPC2L PE=1 SV=1	4	****MAVCIAVIAKE	41.365	3.717	
+sp|Q8NFA0|UBP32_HUMAN Ubiquitin carboxyl-terminal hydrolase 32 OS=Homo sapiens GN=USP32 PE=1 SV=1	260	ISCGLSACCRGPLAE	9.375	2.412	
+sp|Q8NFA0|UBP32_HUMAN Ubiquitin carboxyl-terminal hydrolase 32 OS=Homo sapiens GN=USP32 PE=1 SV=1	261	SCGLSACCRGPLAER	5.573	3.717	
+sp|Q8NFA0|UBP32_HUMAN Ubiquitin carboxyl-terminal hydrolase 32 OS=Homo sapiens GN=USP32 PE=1 SV=1	1179	WYRFCRGCKIDCGED	3.09	2.412	
+sp|Q6A555|TXND8_HUMAN Thioredoxin domain-containing protein 8 OS=Homo sapiens GN=TXNDC8 PE=1 SV=2	97	SRIKRIICCYRSGFM	16.275	2.412	
+sp|Q6A555|TXND8_HUMAN Thioredoxin domain-containing protein 8 OS=Homo sapiens GN=TXNDC8 PE=1 SV=2	98	RIKRIICCYRSGFMS	5.258	3.717	
+sp|O60763|USO1_HUMAN General vesicular transport factor p115 OS=Homo sapiens GN=USO1 PE=1 SV=2	391	AVLYCFQCFLYKNQK	4.038	3.717	
+sp|O60763|USO1_HUMAN General vesicular transport factor p115 OS=Homo sapiens GN=USO1 PE=1 SV=2	499	VGLLMLLCTWLSNCP	4.034	3.717	
+sp|O75063|XYLK_HUMAN Glycosaminoglycan xylosylkinase OS=Homo sapiens GN=FAM20B PE=1 SV=1	331	ILAPLYQCCIIRVST	4.555	2.412	
+sp|Q96EC8|YIPF6_HUMAN Protein YIPF6 OS=Homo sapiens GN=YIPF6 PE=1 SV=2	168	LTVAMLICRLVLLAD	4.003	3.717	
+sp|O60844|ZG16_HUMAN Zymogen granule membrane protein 16 OS=Homo sapiens GN=ZG16 PE=1 SV=2	11	VALLALLCASASGNA	38.644	3.717	
+sp|O60844|ZG16_HUMAN Zymogen granule membrane protein 16 OS=Homo sapiens GN=ZG16 PE=1 SV=2	167	YPSSCSRC*******	12.349	10.722	
+sp|Q9NXF8|ZDHC7_HUMAN Palmitoyltransferase ZDHHC7 OS=Homo sapiens GN=ZDHHC7 PE=1 SV=2	132	PGEVIYKCPKCCCIK	7.525	2.412	
+sp|Q9NXF8|ZDHC7_HUMAN Palmitoyltransferase ZDHHC7 OS=Homo sapiens GN=ZDHHC7 PE=1 SV=2	135	VIYKCPKCCCIKPER	8.11	2.412	
+sp|Q9NXF8|ZDHC7_HUMAN Palmitoyltransferase ZDHHC7 OS=Homo sapiens GN=ZDHHC7 PE=1 SV=2	136	IYKCPKCCCIKPERA	11.32	2.412	
+sp|Q9NXF8|ZDHC7_HUMAN Palmitoyltransferase ZDHHC7 OS=Homo sapiens GN=ZDHHC7 PE=1 SV=2	137	YKCPKCCCIKPERAH	4.904	3.717	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	215	LLLVLALCCKVGFHT	6.964	2.412	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	216	LLVLALCCKVGFHTA	6.847	3.717	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	250	LVSVLLLCPWVIVLS	3.806	3.717	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	625	WFIADPLCSLFIAIL	12.472	10.722	
+sp|Q8TAD4|ZNT5_HUMAN Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1	758	QMESMKYCKDGTYIM	3.862	3.717	
+sp|O95159|ZFPL1_HUMAN Zinc finger protein-like 1 OS=Homo sapiens GN=ZFPL1 PE=1 SV=2	4	****MGLCKCPKRKV	41.276	3.717	
+sp|O95159|ZFPL1_HUMAN Zinc finger protein-like 1 OS=Homo sapiens GN=ZFPL1 PE=1 SV=2	6	**MGLCKCPKRKVTN	39.326	3.717	
+sp|O95159|ZFPL1_HUMAN Zinc finger protein-like 1 OS=Homo sapiens GN=ZFPL1 PE=1 SV=2	16	RKVTNLFCFEHRVNV	29.721	3.717	
+sp|O95159|ZFPL1_HUMAN Zinc finger protein-like 1 OS=Homo sapiens GN=ZFPL1 PE=1 SV=2	56	YNPNCRLCNIPLASR	3.966	3.717	
+sp|Q9NYG2|ZDHC3_HUMAN Palmitoyltransferase ZDHHC3 OS=Homo sapiens GN=ZDHHC3 PE=1 SV=2	43	MWFIRDGCGIACAIV	2.922	2.412	
+sp|Q9NYG2|ZDHC3_HUMAN Palmitoyltransferase ZDHHC3 OS=Homo sapiens GN=ZDHHC3 PE=1 SV=2	132	VVYKCPKCCSIKPDR	11.11	2.412	
+sp|Q9NYG2|ZDHC3_HUMAN Palmitoyltransferase ZDHHC3 OS=Homo sapiens GN=ZDHHC3 PE=1 SV=2	133	VYKCPKCCSIKPDRA	4.377	3.717	
+sp|Q9NYG2|ZDHC3_HUMAN Palmitoyltransferase ZDHHC3 OS=Homo sapiens GN=ZDHHC3 PE=1 SV=2	205	FEEDWTKCSSFSPPT	18.342	10.722	
