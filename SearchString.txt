@@ -1,0 +1,4 @@
+Endoplasmic reticulum membrane [SL-0097]
+Cell membrane [SL-0039]
+Golgi apparatus [SL-0132]
+locations:(location:"Cell membrane [SL-0039]" evidence:experimental) NOT locations:(location:"Endoplasmic reticulum membrane [SL-0097]") locations:(location:"Golgi apparatus [SL-0132]") AND reviewed:yes AND organism:"Homo sapiens (Human) [9606]"
